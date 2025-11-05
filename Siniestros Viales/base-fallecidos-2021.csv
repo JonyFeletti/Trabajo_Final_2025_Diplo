@@ -1,0 +1,858 @@
+FUENTE;PARTIDO (según codificación INDEC);FECHA DEL HECHO;MES;HORA;DÍA DE LA SEMANA;DÍA DE LA SEMANA AGRUPADO;DIURNO / NOCTURNO;TIPO DE LUGAR;MODO DE PRODUCCIÓN DEL HECHO
+Ministerio de Seguridad;763;11/1/2021;Enero;01:30;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;763;23/1/2021;Enero;16:30;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;070;26/1/2021;Enero;19:00;Martes;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;763;30/10/2021;Octubre;19:30:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;070;4/2/2021;Febrero;08:00;Jueves;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;763;7/3/2021;Marzo;23:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;665;9/4/2021;Abril;13:00;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;763;14/4/2021;Abril;08:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;763;19/4/2021;Abril;19:00;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / persona
+Ministerio de Seguridad;763;30/5/2021;Mayo;14:25;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;763;8/8/2021;Agosto;12:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;770;8/8/2021;Agosto;16:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;770;20/8/2021;Agosto;20:45:00;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;763;29/8/2021;Agosto;02:45:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;077;17/1/2021;Enero;06:35;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;077;26/4/2021;Abril;14:00;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;077;9/5/2021;Mayo;20:00;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;077;27/6/2021;Junio;12:00hs;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;623;25/6/2021;Junio;12:50:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;714;8/7/2021;Julio;00:40:00;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;623;9/8/2021;Agosto;18:00:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;623;18/8/2021;Agosto;18:30:00;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;623;7/10/2021;Octubre;21:50:00;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;623;18/10/2021;Octubre;11:00:00;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;623;2/12/2021;Diciembre;20:50:00;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;623;11/12/2021;Diciembre;01:50:00;Sábado;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio de Seguridad;462;16/1/2021;Enero;06:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;469;21/1/2021;Enero;02:45;Jueves;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;413;19/2/2021;Febrero;17:30;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;469;8/3/2021;Marzo;05:25;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;413;29/3/2021;Marzo;06:30;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;294;28/3/2021;Marzo;05:40;Domingo;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio de Seguridad;413;28/4/2021;Abril;00:45;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;351;6/5/2021;Mayo;23:50;Jueves;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;469;30/5/2021;Mayo;21:35;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;462;12/6/2021;Junio;11:15;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;277;21/6/2021;Junio;20:30;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;294;26/8/2021;Agosto;21:20:00;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;413;22/9/2021;Septiembre;13:50:00;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;413;7/12/2021;Septiembre;19:50:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;826;5/2/2021;Febrero;20:08;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;154;14/4/2021;Abril;21:30;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;392;1/6/2021;Junio;16:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;826;19/6/2021;Junio;21:50;Sábado;Sábados y domingos;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;826;11/9/2021;Septiembre;22:30:00;Sábado;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;1/1/2021;Enero;21:20;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;882;8/1/2021;Enero;13:35;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;882;26/1/2021;Enero;22:00;Martes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona
+Ministerio de Seguridad;126;21/1/2021;Enero;20:30;Jueves;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;6/2/2021;Febrero;05:40;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;126;24/2/2021;Febrero;22:10;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;882;8/3/2021;Marzo;06:20;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;15/3/2021;Marzo;00:10;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;126;17/3/2021;Marzo;16:30;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;882;17/3/2021;Marzo;00:50;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;29/3/2021;Marzo;07:42;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;2/4/2021;Abril;09:00;Viernes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;882;1/4/2021;Abril;22:30;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;882;6/5/2021;Mayo;15:45;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;126;28/5/2021;Mayo;15:20;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;4/6/2021;Junio;07:50;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;882;16/7/2021;Julio;10:25:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;882;20/8/2021;Agosto;15:50:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;882;24/8/2021;Agosto;23:40:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;574;8/1/2021;Enero;08:32;Viernes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;532;9/1/2021;Enero;16:31;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;210;25/1/2021;Enero;23:00;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;210;18/2/2021;Febrero;23:40;Jueves;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;497;25/2/2021;Febrero;14:33;Jueves;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;021;5/3/2021;Marzo;11:22;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;497;11/3/2021;Marzo;21:54;Jueves;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;224;21/3/2021;Marzo;21:54;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;532;22/3/2021;Marzo;21:45;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;525;24/3/2021;Marzo;16:54;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;210;5/4/2021;Abril;11:38;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;532;6/4/2021;Abril;03:00;Martes;Lunes a viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;525;12/4/2021;Abril;17.30;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / persona
+Ministerio de Seguridad;497;18/4/2021;Abril;00:20;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;329;17/4/2021;Abril;14:01;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;210;19/4/2021;Abril;09:20;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;532;2/5/2021;Mayo;05:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;497;10/5/2021;Mayo;18:00;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;021;5/6/2021;Junio;18:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;532;10/6/2021;Junio;22:33;Jueves;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;210;10/6/2021;Junio;19:32;Jueves;Lunes a viernes;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;532;15/6/2021;Junio;07:13;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;532;20/6/2021;Junio;10:20;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;210;29/6/2021;Junio;07:00;Martes;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;530;9/7/2021;Julio;21:20:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;210;31/7/2021;Julio;15:51:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;525;4/8/2021;Agosto;23:00:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;224;5/8/2021;Agosto;13:21:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;112;7/8/2021;Agosto;15:00:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;112;9/9/2021;Septiembre;05:23:00;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio Público Fiscal;525;15/9/2021;Septiembre;02.05;Miércoles;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;525;17/9/2021;Septiembre;13:52:00;Viernes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;532;25/9/2021;Septiembre;01:46:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;112;27/9/2021;Septiembre;19:50:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;224;12/12/2021;Diciembre;06.27;Domingo;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio de Seguridad;525;22/12/2021;Febrero;02:58:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;588;22/1/2021;Enero;15:30;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;609;30/3/2021;Marzo;23:20;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;588;31/3/2021;Marzo;04:30;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;588;8/4/2021;Abril;07:00;Jueves;Lunes a viernes;Nocturno;Sin determinar;Sin determinar
+Ministerio de Seguridad;609;26/4/2021;Abril;20:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;609;25/5/2021;Mayo;18:00;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;609;17/6/2021;Junio;16:57:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;609;23/8/2021;Agosto;21:00:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;588;9/9/2021;Septiembre;19.10;Jueves;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;385;11/9/2021;Septiembre;05:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;588;18/9/2021;Septiembre;17:45:00;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo  / objeto
+Ministerio de Seguridad;399;18/9/2021;Septiembre;11:20:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;007;20/9/2021;Septiembre;12:15:00;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Vuelco / despistes
+Ministerio de Seguridad;609;9/10/2021;Octubre;23:30:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;385;17/10/2021;Octubre;12:30:00;Domingo;Sábados y domingos;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;406;22/10/2021;Octubre;11:00:00;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;007;30/10/2021;Octubre;16:00:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Vuelco / despistes
+Ministerio Público Fiscal;609;6/11/2021;Noviembre;05:58:00;Sábado;Sábados y domingos;Nocturno;Calle;Otro modo
+Ministerio Público Fiscal;231;20/11/2021;Noviembre;06:07:00;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;609;23/11/2021;Noviembre;Sin determinar;Martes;Lunes a viernes;Sin determinar;Sin determinar;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;294;27/11/2021;Noviembre;05:45:00;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;392;28/11/2021;Noviembre;07:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;778;5/1/2021;Enero;16:35:00;Martes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo  / objeto
+Ministerio de Seguridad;778;19/2/2021;Febrero;22:00;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;778;21/2/2021;Febrero;07:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;778;11/3/2021;Marzo;11:11;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;778;9/4/2021;Abril;16:45;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;778;16/4/2021;Abril;21:20;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;778;16/5/2021;Mayo;04:10;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio Público Fiscal;778;20/11/2021;Noviembre;19.00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;112;4/1/2021;Enero;11:30;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;854;26/1/2021;Enero;19:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;854;2/2/2021;Febrero;12:30;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;112;22/3/2021;Marzo;14:00;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;112;30/4/2021;Abril;23:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;854;25/9/2021;Septiembre;04:00:00;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;217;20/3/2021;Marzo;06:15;Sábado;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio Público Fiscal;218;25/7/2021;Julio;18:52:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;217;2/10/2021;Octubre;23:50:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;042;6/10/2021;Octubre;17:30:00;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;217;10/10/2021;Octubre;08:00:00;Domingo;Sábados y domingos;Diurno;Calle;Vuelco / despistes
+Ministerio de Seguridad;042;17/10/2021;Octubre;18:00:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;644;22/10/2021;Octubre;16:30:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;868;21/11/2021;Noviembre;16:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;049;3/1/2021;Enero;22:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;595;13/1/2021;Enero;11:00;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;595;23/1/2021;Enero;04:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;595;16/2/2021;Febrero;16:00;Martes;Lunes a viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;595;16/2/2021;Febrero;18:30;Martes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;693;17/2/2021;Febrero;14:30;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;707;20/2/2021;Febrero;12:30;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;707;26/2/2021;Febrero;20:00:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;455;5/3/2021;Marzo;10:45;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;455;9/3/2021;Marzo;13:00;Martes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;595;22/3/2021;Marzo;00:00;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;595;7/5/2021;Mayo;05:00;Viernes;Lunes a viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;049;30/6/2021;Junio;16:40:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;105;1/7/2021;Julio;22:30:00;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;707;20/7/2021;Julio;19:30:00;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;049;28/11/2021;Noviembre;08:30:00;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;399;21/1/2021;Enero;20:12;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;399;25/2/2021;Febrero;13:00;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;007;20/3/2021;Marzo;08:20;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;399;6/6/2021;Junio;09:15;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;231;8/8/2021;Agosto;06:00:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;868;5/1/2021;Enero;02:10;Martes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;420;9/1/2021;Enero;20:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;644;24/1/2021;Enero;23:55;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;868;1/3/2021;Marzo;15:20;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;420;19/6/2021;Junio;23:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;084;21/1/2021;Enero;12:35;Jueves;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;791;10/2/2021;Febrero;20:00;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;084;14/2/2021;Febrero;05:10;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;791;16/2/2021;Febrero;06:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;791;20/2/2021;Febrero;02:50;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;084;1/4/2021;Abril;20:00;Jueves;Lunes a viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;448;18/4/2021;Abril;21:20;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;084;22/7/2021;Julio;03:30:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio Público Fiscal;791;23/11/2021;Noviembre;20:35:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;518;9/1/2021;Enero;21:05;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;357;24/1/2021;Enero;14:20:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;17/2/2021;Febrero;02:00;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;17/2/2021;Febrero;20:30;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;4/3/2021;Marzo;14:55;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;357;30/3/2021;Marzo;01:14:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;357;7/4/2021;Abril;15:17;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;24/5/2021;Mayo;11:10;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;13/6/2021;Junio;21:40;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;357;8/7/2021;Julio;08:30:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;14/7/2021;Julio;22:00:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;357;22/7/2021;Julio;14:00:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;357;2/8/2021;Agosto;16:30:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;357;15/8/2021;Agosto;01:40:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;357;15/8/2021;Agosto;03:51:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;357;24/8/2021;Agosto;22:03:00;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;357;21/10/2021;Octubre;04:46:00;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;357;3/11/2021;Noviembre;06:50:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;357;6/11/2021;Noviembre;Sin determinar;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;357;7/11/2021;Noviembre;17:00:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;357;21/11/2021;Noviembre;05:22:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;581;1/1/2021;Enero;04:20;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;581;20/2/2021;Febrero;17:50;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;742;31/3/2021;Marzo;00:40;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;581;17/4/2021;Abril;13:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;742;4/5/2021;Mayo;12:30;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;581;4/7/2021;Julio;13:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;581;24/11/2021;Noviembre;16:00:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;189;4/1/2021;Enero;13:30;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;189;28/1/2021;Enero;04:30;Jueves;Lunes a viernes;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;189;11/11/2021;Noviembre;11:15:00;Jueves;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;700;16/1/2021;Enero;01:10;Sábado;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;700;11/8/2021;Agosto;16:15:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;056;7/2/2021;Febrero;23:05;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;13/3/2021;Marzo;17:30;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;29/3/2021;Marzo;22:30;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;15/4/2021;Abril;15:50;Jueves;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;056;17/4/2021;Abril;14:10;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;056;4/6/2021;Junio;19:30;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;27/6/2021;Junio;18:00;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;5/9/2021;Septiembre;11:50:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;23/9/2021;Septiembre;08:00:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;056;1/11/2021;Noviembre;21:35:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;056;2/12/2021;Diciembre;21:10:00;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;735;17/2/2021;Febrero;04:45;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;161;15/3/2021;Marzo;18:10;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;266;20/3/2021;Marzo;13:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;266;1/5/2021;Mayo;18:15;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;728;12/5/2021;Mayo;19:55;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;728;27/6/2021;Junio;04:30;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;161;2021-07-25;Julio;07:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;728;8/8/2021;Agosto;20:40:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;728;8/10/2021;Octubre;16:30:00;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;728;11/10/2021;Octubre;19:15:00;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;266;20/11/2021;Noviembre;21:35:00;Sábado;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio Público Fiscal;161;30/11/2021;Noviembre;22.00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;735;18/12/2021;Diciembre;13.25;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;805;9/9/2021;Septiembre;15:10:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;805;13/10/2021;Octubre;00:05:00;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;805;10/11/2021;Noviembre;08:40:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;805;16/1/2021;Enero;16:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;805;25/1/2021;Enero;09:15;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio Público Fiscal;805;28/1/2021;Enero;Sin determinar;Jueves;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;805;16/2/2021;Febrero;05:40;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;756;18/2/2021;Febrero;17:15;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;252;21/2/2021;Febrero;17:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;805;22/2/2021;Febrero;20:30;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;805;3/3/2021;Marzo;16:50;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;805;3/3/2021;Marzo;17:10;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;756;15/3/2021;Marzo;09:45;Lunes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;252;20/3/2021;Marzo;23:10;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;756;28/3/2021;Marzo;09:40;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;756;6/4/2021;Abril;14:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;756;11/4/2021;Abril;Sin determinar;Domingo;Sábados y domingos;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;756;13/4/2021;Abril;20:25;Martes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;749;21/4/2021;Abril;21:40:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;756;27/4/2021;Abril;Sin determinar;Martes;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;749;30/4/2021;Abril;13:30:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;252;1/5/2021;Mayo;Sin determinar;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;805;9/5/2021;Mayo;06:50;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;749;31/5/2021;Mayo;17:10:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;756;10/6/2021;Junio;09:30;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;756;19/6/2021;Junio;14:00;Sábado;Sábados y domingos;Diurno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;749;20/6/2021;Junio;12:20;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;252;18/6/2021;Junio;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Calle;Sin determinar
+Ministerio de Seguridad;861;24/6/2021;Junio;00:25;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;252;7/7/2021;Julio;22:50:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;756;6/7/2021;Julio;09:00:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;861;1/8/2021;Agosto;07:50:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;861;4/8/2021;Agosto;16:00:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;805;10/8/2021;Agosto;12:20:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;252;15/8/2021;Agosto;20:15:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;371;13/1/2021;Enero;14:30;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;371;31/1/2021;Enero;12:50;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;371;16/5/2021;Mayo;16:20;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;371;6/6/2021;Junio;03:40;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;371;24/6/2021;Junio;23:45;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;371;29/7/2021;Julio;13:55:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;371;9/8/2021;Agosto;04:15:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;371;27/8/2021;Agosto;14:00:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;371;11/11/2021;Noviembre;13:15:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;371;11/11/2021;Noviembre;17:05:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;371;13/11/2021;Noviembre;20:45:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;371;15/11/2021;Noviembre;19:30:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;371;6/12/2021;Diciembre;09:12:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;760;1/1/2021;Enero;05:00:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;412;1/1/2021;Enero;22:00;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;412;6/1/2021;Enero;17:20;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;638;17/1/2021;Enero;16:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;760;24/1/2021;Enero;23:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;515;23/1/2021;Enero;08:15;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;515;22/1/2021;Enero;08:00;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;412;16/1/2021;Enero;01:15;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;515;6/2/2021;Febrero;12:20;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;515;26/2/2021;Febrero;18:00:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;412;28/2/2021;Febrero;22:30;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;515;5/3/2021;Marzo;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Calle;Sin determinar
+Ministerio de Seguridad;638;1/3/2021;Marzo;18:45;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;638;3/3/2021;Marzo;14:05;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;515;14/3/2021;Marzo;15:40;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;760;15/3/2021;Marzo;10:00;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;515;30/3/2021;Marzo;16:50;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;638;21/3/2021;Marzo;05:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;515;7/4/2021;Abril;09:00;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;515;3/4/2021;Abril;03:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;515;20/4/2021;Abril;18:40;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;638;23/4/2021;Abril;23:47;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;412;28/4/2021;Abril;07:10;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;760;7/5/2021;Mayo;20:10:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;412;2/5/2021;Mayo;19:10:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;638;5/5/2021;Mayo;19:40;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;515;6/5/2021;Mayo;21:20;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;760;11/5/2021;Mayo;13:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;515;14/5/2021;Mayo;09:05;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;515;1/6/2021;Junio;13:45;Martes;Lunes a viernes;Diurno;Autopista / Autovía;Colisión Vehículo  / objeto
+Ministerio de Seguridad;515;7/6/2021;Junio;12:30;Lunes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;515;14/6/2021;Junio;20:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;638;3/6/2021;Junio;00:00;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;760;13/6/2021;Junio;06:20;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;760;12/6/2021;Junio;02:35;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;760;16/6/2021;Junio;Sin determinar;Miércoles;Lunes a viernes;Sin determinar;Calle;Sin determinar
+Ministerio de Seguridad;760;16/6/2021;Junio;15:50;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;515;25/6/2021;Junio;18:00:00;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;760;16/6/2021;Junio;00:30;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;638;28/6/2021;Junio;13:30;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;412;23/6/2021;Junio;02:55;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;412;29/6/2021;Junio;09:15;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;760;2/7/2021;Julio;13:30:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;760;8/7/2021;Julio;10:30:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;412;7/7/2021;Julio;18:45:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;412;24/7/2021;Julio;04:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;638;24/7/2021;Julio;11:10:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;638;9/8/2021;Agosto;20:00:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;760;15/8/2021;Agosto;15:36:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;515;24/8/2021;Agosto;20:30:00;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;515;27/8/2021;Agosto;16:15:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;760;30/8/2021;Agosto;07:05:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;760;28/8/2021;Agosto;21:45:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;638;1/10/2021;Octubre;11:11:00;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;638;2/10/2021;Octubre;16:15:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;638;3/10/2021;Octubre;17:05:00;Domingo;Sábados y domingos;Diurno;Calle;Vuelco / despistes
+Ministerio de Seguridad;638;19/10/2021;Octubre;18:40:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;638;21/11/2021;Noviembre;07:10:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;638;28/11/2021;Noviembre;Sin determinar;Domingo;Sábados y domingos;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;638;30/11/2021;Noviembre;18:04:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;560;1/1/2021;Enero;05:30;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;560;17/1/2021;Enero;20:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;21/1/2021;Enero;12:30;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;560;22/1/2021;Enero;23:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;560;9/2/2021;Febrero;18:50 HORAS;Martes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;560;4/4/2021;Abril;02:20;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;560;18/4/2021;Abril;23:04;Domingo;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio de Seguridad;560;1/5/2021;Mayo;02:45;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;560;3/5/2021;Mayo;11:00;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;560;23/5/2021;Mayo;15:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;560;31/5/2021;Mayo;00:20;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;5/6/2021;Junio;18:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;560;2/7/2021;Julio;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Sin determinar;Colisión Vehículo / persona
+Ministerio de Seguridad;560;20/7/2021;Julio;06:45:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;22/7/2021;Julio;06:50:00;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;1/8/2021;Agosto;01:00:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;4/10/2021;Octubre;06:00:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;560;15/10/2021;Octubre;23:30:00;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;31/10/2021;Octubre;01:00:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;560;13/11/2021;Noviembre;21:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;560;23/11/2021;Noviembre;04:30:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;568;26/5/2021;Mayo;06:15;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;568;29/5/2021;Mayo;23:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;568;31/5/2021;Mayo;02:20;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;568;15/6/2021;Junio;22:00;Martes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;568;4/7/2021;Julio;13:50:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;568;4/7/2021;Julio;08:20:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;568;7/10/2021;Octubre;14:10:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;427;2/1/2021;Enero;20:40:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;427;17/1/2021;Enero;23:30;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;29/1/2021;Enero;20:40;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;16/1/2021;Enero;19:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;7/2/2021;Febrero;00:10;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;12/2/2021;Febrero;15:30;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;11/2/2021;Febrero;22:50;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;1/2/2021;Febrero;06:05;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;3/3/2021;Marzo;19:40;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;14/3/2021;Marzo;15:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;12/3/2021;Marzo;18:30;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;13/3/2021;Marzo;18:30;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;18/3/2021;Marzo;16:10;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;427;23/3/2021;Marzo;18:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;24/3/2021;Marzo;03:30;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;28/3/2021;Marzo;22:30;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;3/4/2021;Abril;22:10;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;6/4/2021;Abril;07:40;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;12/4/2021;Abril;16:30:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;427;25/4/2021;Abril;21:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;427;8/5/2021;Mayo;21:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;18/5/2021;Mayo;07:55;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;16/5/2021;Mayo;20:10;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;27/6/2021;Junio;23:30;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;2/7/2021;Julio;10:00:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;11/7/2021;Julio;15:10:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;12/7/2021;Julio;Sin determinar;Lunes;Lunes a viernes;Sin determinar;Sin determinar;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;10/7/2021;Julio;03:40:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;23/7/2021;Julio;04:45:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;28/7/2021;Julio;19:50:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;20/7/2021;Julio;00:20:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;1/8/2021;Agosto;10:10:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;12/8/2021;Agosto;11:10:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;23/8/2021;Agosto;21:20:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;3/9/2021;Septiembre;18:40:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;427;18/9/2021;Septiembre;21:20:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;8/10/2021;Octubre;08:00:00;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;3/10/2021;Octubre;07:50:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;7/10/2021;Octubre;12:40:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;16/10/2021;Octubre;17:00:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;25/10/2021;Octubre;22:10:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;427;23/10/2021;Octubre;01:10:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;427;24/10/2021;Octubre;11:50:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;8/11/2021;Noviembre;00:01:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;16/11/2021;Noviembre;13:10:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;427;21/11/2021;Noviembre;03:04:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;20/11/2021;Noviembre;19:45:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;427;21/11/2021;Noviembre;20:30:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;427;6/12/2021;Diciembre;08:30:00;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;539;23/2/2021;Febrero;12:30;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;539;16/3/2021;Marzo;06:50;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;539;3/5/2021;Mayo;14:10;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;539;6/6/2021;Junio;00:40;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;539;17/6/2021;Junio;07:35:00;Jueves;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;539;28/6/2021;Junio;21:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;539;30/8/2021;Agosto;18:30:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;539;27/9/2021;Septiembre;19:00:00;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;539;3/10/2021;Octubre;07:05:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio Público Fiscal;539;20/11/2021;Noviembre;21:10:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;490;1/1/2021;Enero;04:00;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;028;8/1/2021;Enero;04:10;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;028;12/1/2021;Enero;22:00;Martes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;270;5/2/2021;Febrero;10:15;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;260;25/3/2021;Marzo;13:15;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;260;25/4/2021;Abril;01:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;490;8/5/2021;Mayo;08:40;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;028;19/5/2021;Mayo;22:30;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;490;1/6/2021;Junio;18:00;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;270;4/7/2021;Julio;00:15:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;260;29/7/2021;Julio;10:14:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;091;23/8/2021;Agosto;06:38:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;490;15/9/2021;Septiembre;08:00:00;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;490;20/9/2021;Septiembre;05:00:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;490;28/9/2021;Septiembre;19:30:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;270;30/9/2021;Septiembre;12:00:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;260;30/9/2021;Septiembre;15:30:00;Jueves;Lunes a viernes;Diurno;Calle;Vuelco / despistes
+Ministerio de Seguridad;028;7/10/2021;Octubre;13:00:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;091;23/10/2021;Octubre;17:50:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;028;22/11/2021;Noviembre;Sin determinar;Lunes;Lunes a viernes;Sin determinar;Sin determinar;Colisión Vehículo / persona
+Ministerio de Seguridad;434;21/1/2021;Enero;15:50;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;434;26/1/2021;Enero;Sin determinar;Martes;Lunes a viernes;Sin determinar;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;434;26/1/2021;Enero;16:30;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;434;10/3/2021;Marzo;10:10;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;434;2/4/2021;Abril;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Calle;Sin determinar
+Ministerio Público Fiscal;434;25/5/2021;Mayo;06:40:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;434;9/8/2021;Agosto;04:50:00;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;434;20/10/2021;Octubre;10:35:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;441;1/1/2021;Enero;06:40;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;441;3/1/2021;Enero;08:23;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;4/1/2021;Enero;21:48;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;7/1/2021;Enero;10:15;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;22/1/2021;Enero;00:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;441;24/1/2021;Enero;13:25;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;23/1/2021;Enero;16:50;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;1/2/2021;Febrero;00:30;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;11/2/2021;Febrero;11:30;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;441;21/2/2021;Febrero;00:20:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;27/2/2021;Febrero;00:45;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;441;8/3/2021;Marzo;15:20;Lunes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;13/3/2021;Marzo;20:25;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;17/3/2021;Marzo;Sin determinar;Miércoles;Lunes a viernes;Sin determinar;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;22/3/2021;Marzo;14:00;Lunes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;23/3/2021;Marzo;13:44;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;26/3/2021;Marzo;09:35;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;29/3/2021;Marzo;19:45;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;441;1/4/2021;Abril;13:35;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;4/4/2021;Abril;Sin determinar;Domingo;Sábados y domingos;Sin determinar;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;19/4/2021;Abril;16:15;Lunes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;441;29/4/2021;Abril;10:30;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;1/5/2021;Mayo;19:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;1/5/2021;Mayo;12:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;22/5/2021;Mayo;19:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;441;8/6/2021;Junio;15:40;Martes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;12/6/2021;Junio;12:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;12/6/2021;Junio;22:00;Sábado;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio de Seguridad;441;19/6/2021;Junio;04:40;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;441;23/6/2021;Junio;19:00;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;6/7/2021;Julio;06:00:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;441;13/7/2021;Julio;18:30:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;15/7/2021;Julio;17:30:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;25/7/2021;Julio;02:00:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;441;31/7/2021;Julio;19:26:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio Público Fiscal;441;4/9/2021;Septiembre;10:10:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;441;4/9/2021;Septiembre;14:10:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;5/9/2021;Septiembre;05:55:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;441;17/9/2021;Septiembre;11:00:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;22/9/2021;Septiembre;10:30:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;441;16/9/2021;Septiembre;20:30:00;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;29/9/2021;Septiembre;07:50:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;441;30/9/2021;Septiembre;13:10:00;Jueves;Lunes a viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;5/10/2021;Octubre;21:30:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;441;9/10/2021;Octubre;20:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;10/10/2021;Octubre;01:45:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;17/10/2021;Octubre;04:55:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;441;19/10/2021;Octubre;16:00:00;Martes;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;441;1/11/2021;Noviembre;Sin determinar;Lunes;Lunes a Viernes;Sin determinar;Calle;Sin determinar
+Ministerio de Seguridad;441;12/11/2021;Noviembre;16:55:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;441;26/12/2021;Enero;14:00:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;630;24/1/2021;Enero;01:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;308;6/3/2021;Marzo;18:50;Sábado;Sábados y domingos;Diurno;Calle;Vuelco / despistes
+Ministerio de Seguridad;238;18/9/2021;Septiembre;07:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;658;21/12/2021;Diciembre;06:15:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;658;8/1/2021;Enero;22:50;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;658;12/1/2021;Enero;01:30;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;058;2/2/2021;Febrero;22:35;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;058;12/2/2021;Febrero;08:50;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;658;21/2/2021;Febrero;05:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;058;28/2/2021;Febrero;22:10;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;658;12/3/2021;Marzo;02:50;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;658;15/3/2021;Marzo;11:20;Lunes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;058;16/3/2021;Marzo;17:20;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;658;18/3/2021;Marzo;17:28;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;31/3/2021;Marzo;00:14;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;658;14/4/2021;Abril;22:00;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;658;22/4/2021;Abril;10,50hs ;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio Público Fiscal;658;22/4/2021;Abril;11,00hs. ;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;658;19/5/2021;Mayo;21:00:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;658;11/6/2021;Junio;16:00;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;29/6/2021;Junio;00:30;Martes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;658;3/7/2021;Julio;07:20:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;658;6/8/2021;Agosto;14:40:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;8/8/2021;Agosto;07:25:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;658;15/8/2021;Agosto;23:20:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;658;30/8/2021;Agosto;21,30hs. ;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;658;3/9/2021;Septiembre;04:15:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;658;15/9/2021;Septiembre;04:10:00;Miércoles;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / persona
+Ministerio de Seguridad;658;21/9/2021;Septiembre;21:30:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;658;25/9/2021;Septiembre;15:00:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;7/11/2021;Noviembre;09:10:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;7/11/2021;Noviembre;09:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;25/11/2021;Noviembre;18:15:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;658;7/12/2021;Diciembre;21:10:00;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;840;7/1/2021;Enero;17:40:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;840;12/1/2021;Enero;12:15;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;840;23/1/2021;Enero;08:20;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;840;30/1/2021;Enero;19:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;840;25/2/2021;Febrero;20:25;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;840;7/3/2021;Marzo;05:15;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;840;20/4/2021;Abril;12:10;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;840;30/4/2021;Abril;11:10;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;840;1/6/2021;Junio;14:20;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;840;16/7/2021;Julio;14:00:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;840;16/8/2021;Agosto;14:09:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;840;19/9/2021;Septiembre;06:44:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;840;24/10/2021;Octubre;23:15:00;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;840;12/11/2021;Noviembre;07:10:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;840;26/11/2021;Noviembre;18:50:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;035;14/1/2021;Enero;06:30;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;035;18/1/2021;Enero;04:15;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;035;26/3/2021;Marzo;07:10;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;035;26/4/2021;Abril;07:40;Lunes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;035;10/5/2021;Mayo;03:50;Lunes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;035;14/5/2021;Mayo;15:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;035;18/5/2021;Mayo;12:30;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;035;26/7/2021;Julio;16:10:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;035;15/8/2021;Agosto;01:10:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;035;16/8/2021;Agosto;14:44:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;035;18/8/2021;Agosto;20:30:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio Público Fiscal;035;23/9/2021;Septiembre;16:00:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;035;30/9/2021;Septiembre;07:00:00;Jueves;Lunes a viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;035;2/10/2021;Octubre;08:40:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;035;8/10/2021;Octubre;15:30:00;Viernes;Lunes a viernes;Diurno;Calle;Vuelco / despistes
+Ministerio de Seguridad;035;28/10/2021;Octubre;07:13:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;035;29/10/2021;Octubre;09:00:00;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;035;6/11/2021;Noviembre;04:10:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;035;7/11/2021;Noviembre;11:00:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;408;5/2/2021;Febrero;07:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;408;5/4/2021;Abril;13:00;Lunes;Lunes a viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;408;7/4/2021;Abril;03:00;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;560;22/5/2021;Mayo;23:50:00;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo / persona
+Ministerio de Seguridad;364;21/1/2021;Enero;21:30;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;364;25/4/2021;Abril;21:40;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;364;18/9/2021;Septiembre;01:30:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;364;28/10/2021;Octubre;10:15:00;Jueves;Lunes a viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;364;29/10/2021;Octubre;20:20:00;Viernes;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;364;20/11/2021;Noviembre;16:55:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;410;16/1/2021;Enero;22:50;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo / persona
+Ministerio de Seguridad;410;4/2/2021;Febrero;12:50;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;410;20/4/2021;Abril;Sin determinar;Martes;Lunes a viernes;Sin determinar;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;245;15/2/2021;Febrero;19:15;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;245;21/3/2021;Marzo;20:20;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;274;29/1/2021;Enero;20:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;274;4/2/2021;Febrero;22:38;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;274;10/3/2021;Marzo;23:10;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;274;31/3/2021;Marzo;15:00;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Colisión Vehículo / persona
+Ministerio de Seguridad;274;17/4/2021;Abril;15:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;274;19/5/2021;Mayo;15:00;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;274;11/7/2021;Julio;19:45:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;274;16/7/2021;Julio;12:50:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;274;18/7/2021;Julio;16:21:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;274;26/8/2021;Agosto;00:50:00;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;274;5/9/2021;Septiembre;16:00:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;098;28/1/2021;Enero;05:20;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;098;10/3/2021;Marzo;12:00;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;098;27/5/2021;Mayo;18:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;098;6/10/2021;Octubre;17:00:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;602;1/2/2021;Febrero;00:10;Lunes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;875;7/2/2021;Febrero;21:30;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;875;26/2/2021;Febrero;03:40;Viernes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;833;7/3/2021;Marzo;03:30;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;875;8/3/2021;Marzo;20:30;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;875;13/3/2021;Marzo;14:35;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;203;4/4/2021;Abril;11:24;Domingo;Sábados y domingos;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;875;17/4/2021;Abril;22:55;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;182;19/6/2021;Junio;09:30;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;833;7/7/2021;Julio;17:45:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;196;1/10/2021;Octubre;10:20:00;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;875;11/10/2021;Octubre;17:45:00;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;602;22/10/2021;Octubre;23:15:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;602;24/10/2021;Octubre;03:00:00;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;833;28/10/2021;Octubre;05:00:00;Jueves;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;182;7/11/2021;Noviembre;22:05:00;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;203;9/11/2021;Noviembre;Sin determinar;Martes;Lunes a Viernes;Sin determinar;Calle;Sin determinar
+Ministerio de Seguridad;091;19/12/2021;Diciembre;02:30:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio Público Fiscal;091;14/1/2021;Enero;07:12:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;091;28/1/2021;Enero;07:12:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;091;2/3/2021;Marzo;20:00;Martes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;091;9/7/2021;Julio;20:10:00;Viernes;Lunes a viernes;Nocturno;Sin determinar;Sin determinar
+Ministerio Público Fiscal;091;23/4/2021;Abril;04:48:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;091;2/5/2021;Mayo;01:30;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;091;1/6/2021;Junio;16:40:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;14/6/2021;Junio;15:30:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;30/6/2021;Junio;07:50;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;091;11/7/2021;Julio;07:55:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;1/8/2021;Agosto;18:00:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;5/8/2021;Agosto;22:28:00;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;091;29/8/2021;Agosto;21:00:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;091;10/9/2021;Septiembre;02:20:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;091;12/9/2021;Septiembre;13:30:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;091;20/9/2021;Septiembre;04:50:00;Lunes;Lunes a viernes;Nocturno;Sin determinar;Sin determinar
+Ministerio de Seguridad;091;1/10/2021;Octubre;10:00:00;Viernes;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;19/10/2021;Octubre;19:55:00;Martes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;091;31/10/2021;Octubre;09:10:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;3/11/2021;Noviembre;07:30:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;9/11/2021;Noviembre;18:10:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;12/11/2021;Noviembre;16:50:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;19/11/2021;Noviembre;22:10:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;091;5/12/2021;Diciembre;19:00:00;Domingo;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;091;8/12/2021;Diciembre;20:20:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;091;29/12/2021;Diciembre;00:40:00;Miércoles;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;134;12/1/2021;Enero;14:30;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;547;13/1/2021;Enero;15:20 hs;Miércoles;Lunes a viernes;Diurno;Calle;Otro modo
+Ministerio de Seguridad;134;15/1/2021;Enero;15:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;119;20/1/2021;Enero;19:30;Miércoles;Lunes a viernes;Nocturno;Autopista / Autovía;Sin determinar
+Ministerio Público Fiscal;655;24/1/2021;Enero;Sin determinar;Domingo;Sábados y domingos;Sin determinar;Sin determinar;Sin determinar
+Ministerio Público Fiscal;483;24/1/2021;Enero;Sin determinar;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;119;6/2/2021;Febrero;Sin determinar;Sábado;Sábados y domingos;Diurno;Autopista / Autovía;Vuelco / despistes
+Ministerio de Seguridad;343;12/2/2021;Febrero;Sin determinar;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;134;14/2/2021;Febrero;Sin determinar;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;134;24/2/2021;Febrero;Sin determinar;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;134;6/3/2021;Marzo;Sin determinar;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;547;8/3/2021;Marzo;Sin determinar;Lunes;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;655;4/4/2021;Abril;Sin determinar;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;134;14/4/2021;Abril;Sin determinar;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;134;21/4/2021;Abril;Sin determinar;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;119;24/4/2021;Abril;Sin determinar;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;134;1/5/2021;Mayo;Sin determinar;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;483;2/5/2021;Mayo;Sin determinar;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;655;13/5/2021;Mayo;Sin determinar;Jueves;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;547;27/5/2021;Mayo;Sin determinar;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;119;22/6/2021;Junio;Sin determinar;Martes;Lunes a viernes;Nocturno;Ruta Provincial;Vuelco / despistes
+Ministerio de Seguridad;134;12/7/2021;Julio;Sin determinar;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;505;1/8/2021;Agosto;Sin determinar;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;655;2/8/2021;Agosto;Sin determinar;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;301;7/8/2021;Agosto;Sin determinar;Sábado;Sábados y domingos;Nocturno;Calle;Vuelco / despistes
+Ministerio de Seguridad;547;1/9/2021;Septiembre;Sin determinar;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Vuelco / despistes
+Ministerio de Seguridad;505;11/9/2021;Septiembre;Sin determinar;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;119;20/9/2021;Septiembre;Sin determinar;Lunes;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo  / objeto
+Ministerio de Seguridad;119;27/11/2021;Noviembre;Sin determinar;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;505;29/11/2021;Noviembre;Sin determinar;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;648;30/1/2021;Enero;Sin determinar;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;648;14/5/2021;Mayo;Sin determinar;Viernes;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;648;31/10/2021;Octubre;Sin determinar;Domingo;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;693;26/8/2021;Agosto;Sin determinar;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;084;25/9/2021;Septiembre;Sin determinar;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;798;13/11/2021;Noviembre;Sin determinar;Miércoles;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;455;13/11/2021;Noviembre;Sin determinar;Sábado;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;693;23/11/2021;Noviembre;Sin determinar;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;693;29/12/2021;Diciembre;06:30:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;595;1/11/2021;Noviembre;Sin determinar;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;595;3/11/2021;Noviembre;Sin determinar;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;497;29/10/2021;Octubre;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;497;24/11/2021;Noviembre;05:20:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;679;29/10/2021;Octubre;02:50:00;Viernes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;671;28/12/2021;Junio;01:22:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;469;7/11/2021;Noviembre;21:50:00;Domingo;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;616;13/11/2021;Noviembre;04:20:00;Sábado;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;721;25/9/2021;Septiembre;04:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;252;19/9/2021;Septiembre;05:30:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / persona
+Ministerio de Seguridad;252;21/9/2021;Septiembre;23:00:00;Martes;Lunes a viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona
+Ministerio de Seguridad;252;24/9/2021;Septiembre;18:30:00;Viernes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;252;29/9/2021;Septiembre;16:30:00;Miércoles;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;252;10/11/2021;Noviembre;09:30:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;252;13/11/2021;Noviembre;00:40:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;756;18/9/2021;Septiembre;16:30:00;Sábado;Sábados y domingos;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;756;23/9/2021;Septiembre;Sin determinar;Jueves;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;756;14/10/2021;Octubre;13:30:00;Jueves;Lunes a viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;756;27/10/2021;Octubre;Sin determinar;Miércoles;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio Público Fiscal;756;8/11/2021;Noviembre;Sin determinar;Lunes;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;861;16/9/2021;Septiembre;09:00:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / persona
+Ministerio Público Fiscal;427;23/11/2021;Noviembre;Sin determinar;Martes;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;749;4/11/2021;Noviembre;Sin determinar;Jueves;Lunes a Viernes;Sin determinar;Calle;Sin determinar
+Ministerio Público Fiscal;749;10/12/2021;Diciembre;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;412;1/10/2021;Octubre;13:43:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;412;23/10/2021;Octubre;07:30:00;Sábado;Sábados y domingos;Diurno;Calle;Sin determinar
+Ministerio Público Fiscal;412;Sin determinar;Enero;02:23:00;Sábado;Sábados y domingos;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;515;29/9/2021;Septiembre;16:20:00;Miércoles;Lunes a viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;515;26/10/2021;Octubre;00:30:00;Martes;Lunes a viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona
+Ministerio de Seguridad;515;18/11/2021;Noviembre;18:30:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;515;23/12/2021;Diciembre;10:00:00;Martes;Lunes a viernes;Diurno;Sin determinar;Sin determinar
+Ministerio de Seguridad;760;4/9/2021;Septiembre;01:00:00;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;760;29/10/2021;Octubre;05:40:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;760;3/11/2021;Noviembre;21:00:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;260;5/10/2021;Octubre;01:30:00;Martes;Lunes a viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona
+Ministerio de Seguridad;260;19/11/2021;Noviembre;14:10:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;260;25/11/2021;Noviembre;12:10:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar
+Ministerio de Seguridad;270;1/10/2021;Octubre;20:25:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;270;8/11/2021;Noviembre;Sin determinar;Lunes;Lunes a viernes;Sin determinar;Sin determinar;Colisión Vehículo / vehículo
+Ministerio de Seguridad;490;8/10/2021;Octubre;05:40:00;Viernes;Lunes a viernes;Nocturno;Calle;Colisión Vehículo / persona
+Ministerio de Seguridad;490;14/10/2021;Octubre;08:20:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;490;27/11/2021;Noviembre;Sin determinar;Sábado;Sábados y domingos;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;357;2/11/2021;Noviembre;13:32:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;126;11/11/2021;Noviembre;22:22:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;070;19/12/2021;Diciembre;12:00:00;Domingo;Sábados y domingos;Diurno;Calle;Colisión Vehículo  / objeto
+Ministerio de Seguridad;175;16/10/2021;Octubre;17:30:00;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;686;17/10/2021;Octubre;14:30:00;Domingo;Sábados y domingos;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;770;19/10/2021;Octubre;07:30:00;Martes;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;077;28/10/2021;Octubre;14:00:00;Jueves;Lunes a viernes;Diurno;Calle;Colisión Vehículo / vehículo
+Ministerio de Seguridad;686;30/10/2021;Octubre;12:00:00;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;770;30/10/2021;Octubre;07:40:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;140;1/11/2021;Noviembre;00:45:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;070;7/12/2021;Marzo;22:00:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar
+Ministerio Público Fiscal;441;1/1/2021;Enero;05.20;Viernes;Lunes a viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;441;27/2/2021;Febrero;04:30:00;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;868;3/3/2021;Marzo;08:50;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;868;3/3/2021;Julio;20:50;Miércoles;Lunes a viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;735;25/7/2021;Julio;17.00;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;735;25/7/2021;Julio;17:20;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio Público Fiscal;547;9/3/2021;Marzo;04:35:00;Martes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;462;10/7/2021;Julio;11:00;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;161;15/7/2021;Julio;16:20;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;882;17/3/2021;Marzo;01:20;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;007;20/7/2021;Julio;06:00;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;112;22/7/2021;Julio;17:30;Lunes;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio Público Fiscal;609;26/3/2021;Marzo;09:42:00;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;511;15/7/2021;Julio;07:40;Sábado;Sábados y domingos;Diurno;Autopista / Autovía;Sin determinar
+Ministerio Público Fiscal;735;16/5/2021;Mayo;21.40;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;112;6/7/2021;Julio;08:10;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;791;9/7/2021;Julio;17:00;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;525;8/7/2021;Julio;10:50;Martes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;441;12/7/2021;Julio;22:45;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;224;13/6/2021;Junio;12:00;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;357;21/6/2021;Junio;17:00;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;861;24/6/2021;Junio;00:10;Jueves;Lunes a viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;791;25/6/2021;Junio;23:00;Viernes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;476;24/7/2021;Julio;07:40;Jueves;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;168;26/7/2021;Julio;06:45;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;651;10/7/2021;Julio;02:15;Jueves;Lunes a viernes;Nocturno;Calle;Sin determinar
+Ministerio de Seguridad;322;9/7/2021;Julio;05:30:00;Viernes;Lunes a viernes;Nocturno;Ruta Provincial;Vuelco / despistes
+Ministerio de Seguridad;224;11/7/2021;Julio;05:30;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;588;21/7/2021;Julio;19:15;Miércoles;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;833;19/7/2021;Julio;15:15;Lunes;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;049;29/7/2021;Julio;08:10;Jueves;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio Público Fiscal;735;6/8/2021;Agosto;20.00;Viernes;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;134;8/8/2021;Agosto;06:00:00;Domingo;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo  / objeto
+Ministerio de Seguridad;791;12/12/2021;Diciembre;23:30;Jueves;Lunes a viernes;Nocturno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;077;8/8/2021;Agosto;16:10hs;Domingo;Sábados y domingos;Diurno;Ruta Provincial;Vuelco / despistes
+Ministerio de Seguridad;525;4/12/2021;Diciembre;14:00;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;357;15/8/2021;Agosto;16:00:00;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;134;15/12/2021;Diciembre;15:50;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;218;14/12/2021;Diciembre;10:59;Sábado;Sábados y domingos;Diurno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;294;26/12/2021;Diciembre;08:30;Jueves;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;392;28/12/2021;Diciembre;08:00;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;547;1/12/2021;Diciembre;18:30;Miércoles;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;392;28/12/2021;Diciembre;08:10;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;547;10/9/2021;Septiembre;06:40:00;Viernes;Lunes a viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;505;11/12/2021;Diciembre;08:00;Sábado;Sábados y domingos;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;805;12/12/2021;Diciembre;09:48;Domingo;Sábados y domingos;Diurno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;476;16/12/2021;Diciembre;15:00;Jueves;Lunes a viernes;Diurno;Ruta Provincial;Sin determinar
+Ministerio de Seguridad;218;15/12/2021;Diciembre;03:30;Miércoles;Lunes a viernes;Nocturno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;574;19/9/2021;Septiembre;03:25:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;588;18/12/2021;Diciembre;09:45;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Sin determinar
+Ministerio Público Fiscal;413;22/9/2021;Septiembre;Sin determinar;Miércoles;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;547;26/9/2021;Septiembre;02:20:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo  / objeto
+Ministerio de Seguridad;287;29/12/2021;Diciembre;16:00;Miércoles;Lunes a viernes;Diurno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;560;15/12/2021;Diciembre;23:20;Viernes;Lunes a viernes;Nocturno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;602;24/12/2021;Diciembre;21:30;Domingo;Sábados y domingos;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;238;23/12/2021;Diciembre;21:00;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;168;30/12/2021;Diciembre;05:00;Sábado;Sábados y domingos;Nocturno;Ruta Provincial;Sin determinar
+Ministerio Público Fiscal;819;21/11/2021;Noviembre;16:30 hs.;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio Público Fiscal;672;24/11/2021;Noviembre;Sin determinar;Miércoles;Lunes a viernes;Sin determinar;Sin determinar;Sin determinar
+Ministerio de Seguridad;224;3/12/2021;Diciembre;08:00:00;Viernes;Lunes a viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;224;2/12/2021;Diciembre;08:00:00;Jueves;Lunes a viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;483;5/12/2021;Diciembre;06:45:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Vuelco / despistes
+Ministerio de Seguridad;392;7/12/2021;Diciembre;15:45:00;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despistes
+Ministerio Público Fiscal;609;5/12/2021;Diciembre;06:30:00;Domingo;Sábados y domingos;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;638;3/12/2021;Diciembre;Sin determinar;Viernes;Lunes a viernes;Sin determinar;Autopista / Autovía;Sin determinar
+Ministerio de Seguridad;882;11/12/2021;Diciembre;13:00:00;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / persona
+Ministerio de Seguridad;134;12/12/2021;Diciembre;12:45:00;Domingo;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio Público Fiscal;134;11/12/2021;Diciembre;14.10;Sábado;Sábados y domingos;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;707;12/12/2021;Diciembre;14:50:00;Domingo;Sábados y domingos;Diurno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;623;14/12/2021;Diciembre;18:00:00;Martes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;399;14/12/2021;Diciembre;10:30:00;Martes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;826;21/12/2021;Diciembre;17:00:00;Martes;Lunes a Viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;497;19/12/2021;Diciembre;01:30:00;Domingo;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;049;24/12/2021;Diciembre;19:05:00;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;252;22/12/2021;Diciembre;10:20:00;Miércoles;Lunes a viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo
+Ministerio de Seguridad;210;27/12/2021;Abril;08:00:00;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Vuelco / despistes
+Ministerio Público Fiscal;623;27/12/2021;Diciembre;02:00:00;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;134;29/12/2021;Julio;04:00:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despistes
+Ministerio de Seguridad;448;29/12/2021;Mayo;02:50:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo
+Ministerio de Seguridad;655;31/12/2021;Agosto;23:50:00;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo
+Ministerio de Seguridad;Sin determinar;2021-12-27;Diciembre;03:30;Lunes;Lunes a viernes;Nocturno;Ruta Nacional;Sin determinar
+Ministerio de Seguridad;497;18/12/2021;Diciembre;03:40:00;Sábado;Sábados y domingos;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo

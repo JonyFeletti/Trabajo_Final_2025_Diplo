@@ -1,0 +1,996 @@
+BASE ORIGEN;PARTIDO;FECHA DEL HECHO;MES;HORA;DÍA DE LA SEMANA;DIA DE LA SEMANA AGRUPADO;Diurno/Nocturno;TIPO DE LUGAR;MODO DE PRODUCCIÓN DEL HECHO;SEXO DE LA VÍCTIMA;EDAD;EDAD AGRUPADA;TIPO DE VÍCTIMA;VEHÍCULO DE LA VÍCTIMA
+Ministerio Público;392;10/6/2020;Junio;17:10;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;70;65 - 74  ;Conductor;Bicicleta
+Ministerio de Seguridad;210;7/1/2020;Enero;22:15;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;23;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;805;5/1/2020;Enero;21:15;Domingo;Fin de semana;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;427;11/1/2020;Enero;01:55;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;805;5/1/2020;Enero;21:15;Domingo;Fin de semana;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;36;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;343;16/2/2020;Febrero;06:30;Domingo;Fin de semana;Nocturno;Autopista / Autovía;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Pasajero;Colectivo
+Ministerio Público;357;24/6/2020;Junio;18:10;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;59;55 - 64  ;Conductor;Bicicleta
+Ministerio de Salud;525;9/2/2020;Febrero;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;77;75 y más;Conductor;Bicicleta
+Ministerio de Salud;778;15/10/2020;Octubre;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;64;55 - 64  ;Conductor;Bicicleta
+Ministerio de Salud;270;17/11/2020;Noviembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;80;75 y más;Conductor;Bicicleta
+Ministerio de Salud;056;4/12/2020;Diciembre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;76;75 y más;Conductor;Bicicleta
+Ministerio de Salud;126;16/2/2020;Febrero;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;73;65 - 74  ;Conductor;Bicicleta
+Ministerio de Salud;035;16/6/2020;Junio;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;55;55 - 64  ;Conductor;Bicicleta
+Ministerio de Salud;515;17/9/2020;Septiembre;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Bicicleta
+Ministerio de Salud;412;1/8/2020;Agosto;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;81;75 y más;Conductor;Bicicleta
+Ministerio de Salud;714;23/8/2020;Agosto;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;54;45 - 54  ;Conductor;Bicicleta
+Ministerio Público;427;1/3/2020;Marzo;07:55;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;182;19/2/2020;Febrero;00:30;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / objeto;Masculino;78;75 y más;Acompañante;Automóvil
+Ministerio de Salud;412;23/2/2020;Febrero;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;515;8/3/2020;Marzo;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;50;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;672;27/12/2020;Diciembre;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;476;4/1/2020;Enero;20:20;Sábado;Fin de semana;Nocturno;Autopista / Autovía;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;476;4/1/2020;Enero;20:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;17;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;648;9/1/2020;Enero;09:15;Jueves;Lunes a Viernes;Diurno;Autopista / Autovía;Vuelco / despiste;Masculino;46;45 - 54  ;Conductor;Camioneta
+Ministerio Público;280;16/6/2020;Junio;08:00;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;52;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;805;7/3/2020;Marzo;22:40;Sábado;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / objeto;Femenino;32;25 - 34  ;Acompañante;Automóvil
+Ministerio de Seguridad;539;7/3/2020;Marzo;22:40;Sábado;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / objeto;Masculino;34;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;778;10/4/2020;Abril;14:30;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / persona;Masculino;69;65 - 74  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;882;12/1/2020;Enero;02:00;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;19;15 - 24  ;Pasajero;Colectivo
+Ministerio de Seguridad;882;12/1/2020;Enero;02:00;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Femenino;41;35 - 44  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;274;24/2/2020;Febrero;16:46;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;37;35 - 44  ;Conductor;Camión
+Ministerio de Seguridad;035;19/5/2020;Mayo;12:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;59;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;547;17/2/2020;Febrero;08:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;74;65 - 74  ;Acompañante;Camioneta
+Ministerio de Seguridad;056;21/5/2020;Mayo;14:15;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Camión
+Ministerio de Seguridad;77;1/3/2020;Marzo;01:55;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Acompañante;Motocicleta
+Ministerio de Seguridad;189;1/3/2020;Marzo;01:55;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;427;1/1/2020;Enero;00:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;476;13/1/2020;Enero;03:50;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;805;14/2/2020;Febrero;05:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;30;25 - 34  ;Conductor;Colectivo
+Ministerio de Seguridad;427;20/2/2020;Febrero;12:20;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;826;10/3/2020;Marzo;00:01;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;75;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;476;13/1/2020;Enero;03:50;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;70;13/1/2020;Enero;04:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;36;35 - 44  ;Conductor;Bicicleta
+Ministerio de Seguridad;805;10/3/2020;Marzo;00:00;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;55;55 - 64  ;Conductor;Camión
+Ministerio de Seguridad;560;20/1/2020;Enero;12:08;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;638;7/1/2020;Enero;22:20;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;581;18/5/2020;Mayo;09:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;32;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;196;30/4/2020;Abril;17:05;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;515;13/2/2020;Febrero;04:15;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Camión
+Ministerio de Seguridad;756;16/3/2020;Marzo;06:30;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Femenino;Sin determinar;Sin determinar;Pasajero;Colectivo
+Ministerio de Seguridad;648;16/2/2020;Febrero;06:30;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;53;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;91;25/5/2020;Mayo;17:30;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;791;25/6/2020;Junio;07:45;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;47;45 - 54  ;Conductor;Camioneta
+Ministerio de Seguridad;224;1/2/2020;Febrero;00:30;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;441;1/1/2020;Enero;00:30;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;547;17/2/2020;Febrero;07:25;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Femenino;4;0 - 4  ;Acompañante;Automóvil
+Ministerio de Seguridad;644;19/1/2020;Enero;10:15;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;595;16/9/2020;Septiembre;14:44;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;476;17/2/2020;Febrero;17:30;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;39;35 - 44  ;Conductor;Automóvil
+Ministerio Público;252;23/2/2020;Febrero;03:00;Domingo;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Femenino;21;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio Público;224;27/8/2020;Agosto;06:25;Jueves;Lunes a Viernes;Nocturno;Calle;Otro modo;Masculino;33;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;497;17/6/2020;Junio;17:30;Sin determinar;Sin determinar;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;45;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;532;12/8/2020;Agosto;07:20;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Otro modo;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;497;26/12/2020;Diciembre;23:30;Sábado;Fin de semana;Nocturno;Ruta Nacional;Otro modo;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;274;21/7/2020;Julio;00:00;Martes;Lunes a Viernes;Nocturno;Calle;Otro modo;Masculino;18;15 - 24  ;Acompañante;Camión
+Ministerio Público;672;23/11/2020;Noviembre;20:20;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;52;45 - 54  ;Acompañante;Automóvil
+Ministerio de Salud;112;9/4/2020;Abril;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Sin determinar;Masculino;71;65 - 74  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;420;27/8/2020;Agosto;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Sin determinar;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;728;3/12/2020;Diciembre;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Sin determinar;Masculino;16;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;539;26/1/2020;Enero;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Sin determinar;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;728;8/3/2020;Marzo;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;595;16/9/2020;Septiembre;Sin determinar;Miércoles;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;34;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;364;7/11/2020;Noviembre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;63;55 - 64  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;469;24/11/2020;Noviembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;66;65 - 74  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;147;2/2/2020;Febrero;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;59;55 - 64  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;882;3/1/2020;Enero;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;72;65 - 74  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;568;29/5/2020;Mayo;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;638;2/10/2020;Octubre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;515;14/10/2020;Octubre;Sin determinar;Miércoles;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;763;22/11/2020;Noviembre;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;602;24/11/2020;Noviembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;67;65 - 74  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;126;25/12/2020;Diciembre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;658;2/3/2020;Marzo;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;427;19/4/2020;Abril;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;763;1/6/2020;Junio;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;658;21/6/2020;Junio;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;623;31/8/2020;Agosto;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;62;55 - 64  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;441;19/9/2020;Septiembre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;749;24/10/2020;Octubre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;658;30/10/2020;Octubre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;707;7/11/2020;Noviembre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;427;27/11/2020;Noviembre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;658;23/12/2020;Diciembre;Sin determinar;Miércoles;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;46;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;539;7/2/2020;Febrero;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;70;13/1/2020;Enero;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;50;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;434;14/11/2020;Noviembre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;16;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;581;13/11/2020;Noviembre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;17;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;035;18/12/2020;Diciembre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;672;21/11/2020;Noviembre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;17;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;763;30/11/2020;Noviembre;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;67;65 - 74  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;427;3/2/2020;Febrero;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;791;19/1/2020;Enero;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;3;0 - 4  ;Acompañante;Motocicleta
+Ministerio de Salud;371;11/1/2020;Enero;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;50;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;623;10/10/2020;Octubre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;595;27/10/2020;Octubre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;638;12/12/2020;Diciembre;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;028;9/3/2020;Marzo;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;294;8/12/2020;Diciembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;126;2/2/2020;Febrero;08:20;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;270;4/7/2020;Julio;08:00;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / objeto;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;260;4/4/2020;Abril;18:30;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Masculino;65;65 - 74  ;Conductor;Motocicleta
+Ministerio de Salud;778;11/8/2020;Agosto;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Sin determinar;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;301;1/9/2020;Septiembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Sin determinar;Masculino;55;55 - 64  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;18/7/2020;Julio;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;568;29/12/2020;Diciembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;67;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;833;13/8/2020;Agosto;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;595;20/3/2020;Marzo;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;72;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;763;6/1/2020;Enero;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;53;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;763;17/6/2020;Junio;Sin determinar;Miércoles;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;11/12/2020;Diciembre;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;66;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;134;29/12/2020;Diciembre;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;37;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;833;16/3/2020;Marzo;Sin determinar;Lunes;Lunes a Viernes;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;126;26/4/2020;Abril;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;49;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;623;16/5/2020;Mayo;Sin determinar;Sábado;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;63;55 - 64  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;638;6/8/2020;Agosto;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;65;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;847;6/12/2020;Diciembre;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio de Salud;700;25/6/2020;Junio;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;65;65 - 74  ;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio de Salud;049;25/6/2020;Junio;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;52;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;063;2/1/2020;Enero;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;028;15/11/2020;Noviembre;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;490;9/6/2020;Junio;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Femenino;22;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;658;28/1/2020;Enero;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;37;35 - 44  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;760;14/8/2020;Agosto;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Femenino;54;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;049;31/1/2020;Enero;Sin determinar;Viernes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;83;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Salud;412;12/3/2020;Marzo;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;77;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Salud;638;9/7/2020;Julio;Sin determinar;Jueves;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;34;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;658;21/1/2020;Enero;Sin determinar;Martes;Lunes a Viernes;Sin especificar;Sin determinar;Colisión Vehículo / persona;Femenino;87;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Salud;427;3/6/2020;Junio;Sin determinar;Miércoles;Lunes a Viernes;Sin especificar;Sin determinar;Sin determinar;Masculino;45;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;371;21/6/2020;Junio;Sin determinar;Domingo;Fin de semana;Sin especificar;Sin determinar;Sin determinar;Femenino;13;5 - 14;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio Público;791;26/9/2020;Septiembre;17:30;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;028;17/5/2020;Mayo;08:15;Domingo;Fin de semana;Nocturno;Sin determinar;Colisión Vehículo / vehículo;Masculino;38;35 - 44  ;Acompañante;Camión
+Ministerio de Seguridad;490;1/1/2020;Enero;00:20;Miércoles;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona;Masculino;27;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;441;21/1/2020;Enero;14:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;14;5 - 14;Pasajero;Colectivo
+Ministerio de Seguridad;826;19/2/2020;Febrero;11:00;Miércoles;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Bicicleta
+Ministerio de Seguridad;497;4/5/2020;Mayo;21:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;39;35 - 44  ;Conductor;Colectivo
+Ministerio de Seguridad;693;2/2/2020;Febrero;13:11;Domingo;Fin de semana;Nocturno;Ruta Nacional;Vuelco / despiste;Femenino;49;45 - 54  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;644;19/1/2020;Enero;10:15;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;644;19/1/2020;Enero;09:30;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;420;27/1/2020;Enero;18:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;357;1/1/2020;Enero;00:15;Miércoles;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Femenino;32;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;182;9/3/2020;Marzo;00:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;62;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;266;18/5/2020;Mayo;09:10;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;644;19/1/2020;Enero;09:30;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;805;18/7/2020;Julio;00:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;35;35 - 44  ;Conductor;Bicicleta
+Ministerio de Seguridad;861;15/12/2020;Diciembre;00:05;Martes;Lunes a Viernes;Nocturno;Autopista / Autovía;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;098;14/9/2020;Septiembre;20:30;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Femenino;1;0 - 4  ;Acompañante;Bicicleta
+Ministerio de Seguridad;427;11/10/2020;Octubre;23:45;Domingo;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;427;16/8/2020;Agosto;16:50;Domingo;Fin de semana;Diurno;Calle;Sin determinar;Masculino;49;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;364;19/10/2020;Octubre;00:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Salud;218;10/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Femenino;74;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;126;04/01/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / vehículo;Femenino;72;65 - 74  ;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio de Salud;028;17/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Femenino;84;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;22/07/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;17;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;644;19/1/2020;Enero;09:30;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;644;19/1/2020;Enero;10:15;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;217;23/1/2020;Enero;16:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;217;23/1/2020;Enero;16:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Femenino;1;0 - 4  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;805;9/1/2020;Enero;23:55;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;392;27/1/2020;Enero;18:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;32;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;392;27/1/2020;Enero;18:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;50;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;392;27/1/2020;Enero;18:05;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Femenino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;119;4/2/2020;Febrero;20:30;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;11;5 - 14;Acompañante;Camioneta
+Ministerio de Seguridad;126;19/1/2020;Enero;09:15;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;73;65 - 74  ;Conductor;Automóvil
+Ministerio de Seguridad;119;4/2/2020;Febrero;20:30;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;48;45 - 54  ;Conductor;Camión
+Ministerio de Seguridad;336;22/2/2020;Febrero;15:00;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;336;22/2/2020;Febrero;15:00;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;63;55 - 64  ;Conductor;Bicicleta
+Ministerio de Seguridad;063;7/3/2020;Marzo;22:55;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;40;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;063;7/3/2020;Marzo;22:55;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Conductor;Camioneta
+Ministerio de Seguridad;518;20/1/2020;Enero;12:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;73;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;399;17/3/2020;Marzo;08:10;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;399;17/3/2020;Marzo;08:10;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;38;35 - 44  ;Acompañante;Camión
+Ministerio de Seguridad;476;19/3/2020;Marzo;11:30;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;476;19/3/2020;Marzo;11:30;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;532;1/6/2020;Junio;19:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Camioneta
+Ministerio de Seguridad;357;27/1/2020;Enero;18:30;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;36;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;224;25/1/2020;Enero;16:55;Sábado;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;826;25/1/2020;Enero;17:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;24;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;217;1/2/2020;Febrero;01:20;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;39;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;252;28/1/2020;Enero;19:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;70;65 - 74  ;Conductor;Motocicleta
+Ministerio de Seguridad;91;6/2/2020;Febrero;21:40;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;4;0 - 4  ;Acompañante;Automóvil
+Ministerio de Seguridad;410;8/2/2020;Febrero;23:20;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;40;35 - 44  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;532;1/6/2020;Junio;19:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Camioneta
+Ministerio de Seguridad;476;17/2/2020;Febrero;08:00;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;217;24/2/2020;Febrero;16:45;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;483;1/3/2020;Marzo;01:30;Domingo;Fin de semana;Nocturno;Sin determinar;Vuelco / despiste;Masculino;39;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;270;2/3/2020;Marzo;13:20;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;37;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;308;22/8/2020;Agosto;23:10;Sábado;Fin de semana;Nocturno;Ruta Provincial;Vuelco / despiste;Femenino;63;55 - 64  ;Acompañante;Automóvil
+Ministerio de Seguridad;134;8/3/2020;Marzo;23:43;Domingo;Fin de semana;Nocturno;Sin determinar;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;518;15/3/2020;Marzo;06:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;308;22/8/2020;Agosto;23:10;Sábado;Fin de semana;Nocturno;Ruta Provincial;Vuelco / despiste;Femenino;85;75 y más;Acompañante;Automóvil
+Ministerio de Seguridad;623;4/9/2020;Septiembre;08:00;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;357;13/3/2020;Marzo;04:30;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;623;4/9/2020;Septiembre;08:00;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;41;35 - 44  ;Acompañante;Automóvil
+Ministerio de Seguridad;217;15/10/2020;Octubre;05:05;Jueves;Lunes a Viernes;Nocturno;Autopista / Autovía;Sin determinar;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;854;12/4/2020;Abril;23:30;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;763;4/5/2020;Mayo;21:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar;Masculino;20;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;168;5/5/2020;Mayo;21:30;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Camión
+Ministerio de Seguridad;217;15/10/2020;Octubre;05:05;Jueves;Lunes a Viernes;Nocturno;Autopista / Autovía;Sin determinar;Masculino;75;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;812;20/11/2020;Noviembre;10:02;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;26;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;497;2/6/2020;Junio;01:40;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;408;4/6/2020;Junio;23:35;Jueves;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;812;20/11/2020;Noviembre;10:02;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;26;25 - 34  ;Acompañante;Automóvil
+Ministerio de Seguridad;420;14/6/2020;Junio;21:50;Domingo;Fin de semana;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;410;16/6/2020;Junio;22:30;Martes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Femenino;36;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;875;23/6/2020;Junio;11:00;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Camión
+Ministerio de Seguridad;833;27/6/2020;Junio;06:20;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;679;2/7/2020;Julio;19:25;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;36;35 - 44  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;238;21/7/2020;Julio;10:00;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Sin determinar;Masculino;Sin determinar;Sin determinar;Acompañante;Camioneta
+Ministerio de Seguridad;91;28/7/2020;Julio;19:56;Martes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;770;7/8/2020;Agosto;11:10;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;45;45 - 54  ;Conductor;Camión
+Ministerio de Seguridad;700;8/8/2020;Agosto;18:45;Sábado;Fin de semana;Diurno;Ruta Nacional;Vuelco / despiste;Masculino;24;15 - 24  ;Conductor;Camioneta
+Ministerio de Seguridad;518;18/8/2020;Agosto;07:20;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;44;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;224;19/8/2020;Agosto;14:40;Miércoles;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;042;20/8/2020;Agosto;17:30;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;37;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;644;19/11/2020;Noviembre;08:10;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;218;27/8/2020;Agosto;05:30;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Femenino;32;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;644;19/11/2020;Noviembre;08:10;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Acompañante;Automóvil
+Ministerio de Seguridad;644;19/11/2020;Noviembre;08:10;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;50;45 - 54  ;Acompañante;Automóvil
+Ministerio de Seguridad;574;10/9/2020;Septiembre;09:30;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;126;16/9/2020;Septiembre;01:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;41;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;707;4/10/2020;Octubre;10:10;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;99;75 y más;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;357;5/10/2020;Octubre;02:30;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;24;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;882;27/9/2020;Septiembre;22:30;Domingo;Fin de semana;Nocturno;Ruta Nacional;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;042;11/12/2020;Diciembre;03:30;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;67;65 - 74  ;Acompañante;Automóvil
+Ministerio de Seguridad;042;11/12/2020;Diciembre;03:30;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;67;65 - 74  ;Acompañante;Automóvil
+Ministerio de Seguridad;648;17/10/2020;Octubre;07:30;Sábado;Fin de semana;Diurno;Ruta Provincial;Sin determinar;Masculino;32;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;728;5/11/2020;Noviembre;03:40;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Conductor;Bicicleta
+Ministerio de Seguridad;134;8/11/2020;Noviembre;06:00;Domingo;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;45;45 - 54  ;Conductor;Camioneta
+Ministerio de Seguridad;648;4/11/2020;Noviembre;10:00;Miércoles;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;49;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;693;12/11/2020;Noviembre;05:30;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Camión
+Ministerio de Seguridad;287;15/12/2020;Diciembre;11:45;Martes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;20;15 - 24  ;Acompañante;Automóvil
+Ministerio de Seguridad;287;15/12/2020;Diciembre;11:45;Martes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Acompañante;Automóvil
+Ministerio de Seguridad;126;22/11/2020;Noviembre;05:30;Domingo;Fin de semana;Nocturno;Ruta Provincial;Sin determinar;Masculino;25;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;287;15/12/2020;Diciembre;11:45;Martes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;43;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;791;24/12/2020;Diciembre;04:30;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;23;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;791;24/12/2020;Diciembre;04:30;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;23;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;735;27/11/2020;Noviembre;12:10;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;063;27/11/2020;Noviembre;03:00;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;336;28/11/2020;Noviembre;10:45;Sábado;Fin de semana;Diurno;Ruta Provincial;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;665;25/10/2020;Octubre;08:00;Domingo;Fin de semana;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;30;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;665;25/10/2020;Octubre;08:00;Domingo;Fin de semana;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;61;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;049;11/12/2020;Diciembre;06:00;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;623;14/1/2020;Enero;05:00;Martes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;623;14/1/2020;Enero;05:00;Martes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;54;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;714;21/11/2020;Noviembre;07:25;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;11;5 - 14;Acompañante;Motocicleta
+Ministerio de Seguridad;357;22/12/2020;Diciembre;12:10;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Sin determinar;Sin determinar;43;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;714;21/11/2020;Noviembre;07:25;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;11;5 - 14;Acompañante;Motocicleta
+Ministerio de Seguridad;392;2/2/2020;Febrero;13:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;8;5 - 14;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;134;29/12/2020;Diciembre;14:30;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;392;2/2/2020;Febrero;13:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;55;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;392;25/12/2020;Diciembre;04:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;147;19/12/2020;Diciembre;08:50;Sábado;Fin de semana;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;99;75 y más;Conductor;Camioneta
+Ministerio de Seguridad;560;25/12/2020;Diciembre;01:20;Viernes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;763;29/2/2020;Febrero;19:15;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;76;75 y más;Conductor;Bicicleta
+Ministerio de Seguridad;763;1/6/2020;Junio;05:20;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;770;25/6/2020;Junio;10:50;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;29;25 - 34  ;Acompañante;Camioneta
+Ministerio de Seguridad;665;26/7/2020;Julio;08:00;Domingo;Fin de semana;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;70;6/10/2020;Octubre;03:35;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;39;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;763;17/10/2020;Octubre;21:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;392;25/12/2020;Diciembre;04:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Sin determinar;20;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;763;4/11/2020;Noviembre;22:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;763;9/11/2020;Noviembre;10:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;770;10/11/2020;Noviembre;05:00;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / objeto;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;70;11/11/2020;Noviembre;15:45;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;140;7/12/2020;Diciembre;22:20;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;70;8/12/2020;Diciembre;00:00;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;763;28/12/2020;Diciembre;22:30;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;525;3/8/2020;Agosto;08:00;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar;Masculino;16;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;77;9/2/2020;Febrero;00:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;Sin determinar;Sin determinar;Pasajero;Colectivo
+Ministerio de Seguridad;714;11/2/2020;Febrero;02:00;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;623;15/2/2020;Febrero;05:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;24;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;175;17/2/2020;Febrero;07:25;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;20;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;623;15/3/2020;Marzo;05:50;Domingo;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;77;12/4/2020;Abril;13:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;623;17/4/2020;Abril;11:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;623;26/5/2020;Mayo;18:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;525;22/9/2020;Septiembre;18:00;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;20;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;525;26/9/2020;Septiembre;22:50;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;175;4/11/2020;Noviembre;19:15;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;525;3/8/2020;Agosto;08:00;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar;Masculino;16;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;728;3/1/2020;Enero;19:50;Viernes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;49;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;77;18/12/2020;Diciembre;17:20;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;41;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;623;27/12/2020;Diciembre;22:00;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;385;6/2/2020;Febrero;21:40;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;57;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;210;14/2/2020;Febrero;05:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;413;28/2/2020;Febrero;19:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;413;4/3/2020;Marzo;20:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;413;7/7/2020;Julio;15:00;Martes;Lunes a Viernes;Diurno;Calle;Vuelco / despiste;Masculino;36;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;532;8/8/2020;Agosto;02:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;40;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;497;7/9/2020;Septiembre;09:00;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;32;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;609;27/9/2020;Septiembre;05:20;Domingo;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;413;23/10/2020;Octubre;18:00;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;37;35 - 44  ;Acompañante;Automóvil
+Ministerio de Seguridad;294;3/11/2020;Noviembre;05:30;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Camión
+Ministerio de Seguridad;469;23/11/2020;Noviembre;02:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;18;15 - 24  ;Conductor;Bicicleta
+Ministerio de Seguridad;469;27/11/2020;Noviembre;17:00;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;10;5 - 14;Conductor;Bicicleta
+Ministerio de Seguridad;462;7/12/2020;Diciembre;23:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;294;8/12/2020;Diciembre;23:15;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;18;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;413;10/12/2020;Diciembre;19:00;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;36;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;413;13/12/2020;Diciembre;13:35;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;413;28/12/2020;Diciembre;09:47;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Camión
+Ministerio de Seguridad;728;3/1/2020;Enero;19:50;Viernes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;56;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;728;3/1/2020;Enero;19:40;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;20;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;826;13/2/2020;Febrero;04:30;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;29;25 - 34  ;Acompañante;Sin especificar vehículo
+Ministerio de Seguridad;826;22/2/2020;Febrero;15:10;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;60;55 - 64  ;Conductor;Camión
+Ministerio de Seguridad;392;15/6/2020;Junio;20:40;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;8;5 - 14;Pasajero;Colectivo
+Ministerio de Seguridad;784;1/2/2020;Febrero;01:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;784;1/2/2020;Febrero;01:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;679;24/12/2020;Diciembre;20:00;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;72;65 - 74  ;Conductor;Automóvil
+Ministerio de Seguridad;126;2/2/2020;Febrero;13:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;252;23/2/2020;Febrero;16:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;52;45 - 54  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;882;26/2/2020;Febrero;17:40;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar;Femenino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;728;6/4/2020;Abril;17:30;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Camioneta
+Ministerio de Seguridad;728;6/4/2020;Abril;17:30;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;497;9/4/2020;Abril;18:30;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;497;9/4/2020;Abril;18:30;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;497;8/8/2020;Agosto;14:00;Sábado;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Acompañante;Camioneta
+Ministerio de Seguridad;648;5/9/2020;Septiembre;08:15;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;32;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;648;16/9/2020;Septiembre;00:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;44;35 - 44  ;Conductor;Camión
+Ministerio de Seguridad;882;1/11/2020;Noviembre;16:05;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;126;22/11/2020;Noviembre;17:30;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;56;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;126;17/12/2020;Diciembre;04:45;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;53;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;882;19/12/2020;Diciembre;18:20;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;126;25/12/2020;Diciembre;14:50;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;784;1/6/2020;Junio;23:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;53;45 - 54  ;Acompañante;Camioneta
+Ministerio de Seguridad;784;1/6/2020;Junio;23:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;53;45 - 54  ;Acompañante;Camioneta
+Ministerio de Seguridad;21;12/1/2020;Enero;02:30;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;55;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;532;11/1/2020;Enero;02:00;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;497;17/1/2020;Enero;07:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;224;7/11/2020;Noviembre;03:03;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;26;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;497;13/2/2020;Febrero;04:05;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;497;17/2/2020;Febrero;08:00;Lunes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;728;22/2/2020;Febrero;15:30;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;58;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;532;10/3/2020;Marzo;00:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;80;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;224;7/11/2020;Noviembre;03:03;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;26;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;532;8/11/2020;Noviembre;19:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;532;8/11/2020;Noviembre;19:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;224;6/12/2020;Diciembre;08:41;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;224;15/5/2020;Mayo;06:10;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;224;6/12/2020;Diciembre;08:41;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;329;6/12/2020;Diciembre;17:09;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;63;55 - 64  ;Acompañante;Automóvil
+Ministerio de Seguridad;532;4/7/2020;Julio;07:10;Sábado;Fin de semana;Diurno;Calle;Vuelco / despiste;Femenino;16;15 - 24  ;Acompañante;Automóvil
+Ministerio de Seguridad;525;12/7/2020;Julio;13:52;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / objeto;Femenino;16;15 - 24  ;Acompañante;Automóvil
+Ministerio de Seguridad;525;18/7/2020;Julio;04:54;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;69;65 - 74  ;Conductor;Bicicleta
+Ministerio de Seguridad;497;20/7/2020;Julio;20:00;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona;Femenino;20;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;609;19/8/2020;Agosto;20:10;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;57;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;329;6/12/2020;Diciembre;17:09;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;63;55 - 64  ;Acompañante;Automóvil
+Ministerio de Seguridad;497;18/12/2020;Diciembre;09:45;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;644;10/9/2020;Septiembre;12:08;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;210;10/10/2020;Octubre;03:03;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;38;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;497;18/12/2020;Diciembre;09:45;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;21;28/12/2020;Diciembre;12:56;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;79;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;21;28/12/2020;Diciembre;12:56;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;79;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;21;28/12/2020;Diciembre;12:56;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;79;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;21;28/12/2020;Diciembre;12:56;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;79;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;588;12/3/2020;Marzo;03:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Camioneta
+Ministerio de Seguridad;588;12/3/2020;Marzo;03:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;39;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;134;12/3/2020;Marzo;03:30;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;134;12/3/2020;Marzo;03:30;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;12;5 - 14;Acompañante;Camioneta
+Ministerio de Seguridad;210;17/12/2020;Diciembre;09:20;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;497;19/12/2020;Diciembre;07:30;Sábado;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;648;22/7/2020;Julio;11:00;Miércoles;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Camioneta
+Ministerio de Seguridad;648;22/7/2020;Julio;11:00;Miércoles;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Acompañante;Camión
+Ministerio de Seguridad;778;22/11/2020;Noviembre;22:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;778;22/11/2020;Noviembre;22:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;112;3/2/2020;Febrero;20:00;Lunes;Lunes a Viernes;Nocturno;Sin determinar;Colisión Vehículo / vehículo;Femenino;33;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;778;22/11/2020;Noviembre;22:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;609;16/5/2020;Mayo;07:00;Sábado;Fin de semana;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;609;4/6/2020;Junio;23:40;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;60;55 - 64  ;Acompañante;Automóvil
+Ministerio de Seguridad;609;17/7/2020;Julio;20:00;Viernes;Lunes a Viernes;Nocturno;Sin determinar;Colisión Vehículo / vehículo;Masculino;52;45 - 54  ;Conductor;Camioneta
+Ministerio de Seguridad;609;19/12/2020;Diciembre;23:30;Sábado;Fin de semana;Nocturno;Sin determinar;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Camioneta
+Ministerio de Seguridad;483;1/3/2020;Marzo;01:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;483;6/3/2020;Marzo;21:50;Viernes;Lunes a Viernes;Nocturno;Sin determinar;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Bicicleta
+Ministerio de Seguridad;119;15/3/2020;Marzo;06:10;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;83;75 y más;Acompañante;Camioneta
+Ministerio de Seguridad;778;22/11/2020;Noviembre;22:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;778;22/11/2020;Noviembre;22:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;547;15/3/2020;Marzo;06:00;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;32;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;134;17/3/2020;Marzo;08:10;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;58;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;483;13/5/2020;Mayo;04:40;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;483;16/5/2020;Mayo;06:50;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;854;1/11/2020;Noviembre;00:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;854;1/11/2020;Noviembre;00:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;648;8/8/2020;Agosto;19:50;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Conductor;Bicicleta
+Ministerio de Seguridad;280;26/9/2020;Septiembre;22:50;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;16;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;301;12/10/2020;Octubre;16:15;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Camión
+Ministerio de Seguridad;483;18/10/2020;Octubre;18:30;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / objeto;Masculino;26;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;648;17/10/2020;Octubre;06:30;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / objeto;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;655;29/2/2020;Febrero;19:30;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;655;29/2/2020;Febrero;19:15;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;89;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;595;14/2/2020;Febrero;05:10;Viernes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;16;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;595;14/2/2020;Febrero;05:10;Viernes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;644;9/7/2020;Julio;07:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;854;12/4/2020;Abril;22:40;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;39;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;648;3/8/2020;Agosto;15:00;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;53;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;420;19/8/2020;Agosto;02:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;644;9/7/2020;Julio;07:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Femenino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;868;18/10/2020;Octubre;16:00;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;112;5/12/2020;Diciembre;21:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;41;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;854;13/12/2020;Diciembre;00:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;44;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;112;30/12/2020;Diciembre;00:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;36;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;655;24/2/2020;Febrero;16:40;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;60;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;868;18/10/2020;Octubre;16:00;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;22;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;791;26/6/2020;Junio;20:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;301;4/3/2020;Marzo;20:30;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;54;45 - 54  ;Conductor;Camioneta
+Ministerio de Seguridad;217;7/10/2020;Octubre;12:00;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar;Femenino;51;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;217;6/12/2020;Diciembre;17:00;Domingo;Fin de semana;Diurno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;455;1/1/2020;Enero;00:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;049;2/1/2020;Enero;12:50;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Femenino;84;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;595;4/3/2020;Marzo;20:55;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;595;22/4/2020;Abril;19:10;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;61;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;644;9/8/2020;Agosto;12:00;Domingo;Fin de semana;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Bicicleta
+Ministerio de Seguridad;644;14/8/2020;Agosto;20:00;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;65;65 - 74  ;Conductor;Automóvil
+Ministerio de Seguridad;280;21/8/2020;Agosto;05:15;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;27;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;707;4/10/2020;Octubre;16:00;Domingo;Fin de semana;Diurno;Ruta Nacional;Vuelco / despiste;Masculino;48;45 - 54  ;Conductor;Camión
+Ministerio de Seguridad;105;29/10/2020;Octubre;16:40;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;18;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;049;6/12/2020;Diciembre;05:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;49;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;595;11/12/2020;Diciembre;12:00;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;55;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;105;24/12/2020;Diciembre;19:00;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / objeto;Masculino;17;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;616;7/1/2020;Enero;22:30;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;399;23/1/2020;Enero;15:55;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;29;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;007;27/12/2020;Diciembre;21:10;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;63;55 - 64  ;Ocupante de vehículo (sin especificar);Camión
+Ministerio de Seguridad;868;4/1/2020;Enero;20:30;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Camión
+Ministerio de Seguridad;868;16/2/2020;Febrero;06:30;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;868;23/2/2020;Febrero;16:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;80;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;868;2/3/2020;Marzo;14:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar;Masculino;48;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;420;19/5/2020;Mayo;11:40;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;47;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;420;11/7/2020;Julio;05:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;791;26/6/2020;Junio;20:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Pasajero;Colectivo
+Ministerio de Seguridad;357;9/11/2020;Noviembre;23:59;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;581;1/8/2020;Agosto;18:30;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;357;9/11/2020;Noviembre;23:59;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;357;9/11/2020;Noviembre;23:59;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;420;27/11/2020;Noviembre;06:45;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;9;5 - 14;Acompañante;Sin especificar vehículo
+Ministerio de Seguridad;84;14/3/2020;Marzo;05:20;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;40;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;357;9/11/2020;Noviembre;23:59;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;357;18/11/2020;Noviembre;10:00;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;581;18/9/2020;Septiembre;21:00;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;38;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;203;29/9/2020;Septiembre;10:00;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Camioneta
+Ministerio de Seguridad;448;25/10/2020;Octubre;12:40;Domingo;Fin de semana;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;672;26/11/2020;Noviembre;17:50;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Conductor;Camión
+Ministerio de Seguridad;84;9/12/2020;Diciembre;01:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;38;35 - 44  ;Acompañante;Camioneta
+Ministerio de Seguridad;357;17/1/2020;Enero;07:00;Viernes;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;357;27/1/2020;Enero;18:20;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;87;75 y más;Conductor;Automóvil
+Ministerio de Seguridad;357;23/2/2020;Febrero;16:10;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;56;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;357;16/3/2020;Marzo;06:30;Lunes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;22;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;357;25/6/2020;Junio;19:00;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;76;75 y más;Conductor;Motocicleta
+Ministerio de Seguridad;280;17/7/2020;Julio;19:00;Viernes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;65;65 - 74  ;Conductor;Bicicleta
+Ministerio de Seguridad;203;24/8/2020;Agosto;20:10;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;22;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;056;8/9/2020;Septiembre;10:00;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar;Femenino;52;45 - 54  ;Conductor;Bicicleta
+Ministerio de Seguridad;602;21/9/2020;Septiembre;23:00;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;357;4/10/2020;Octubre;22:05;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;357;18/11/2020;Noviembre;10:00;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;056;1/2/2020;Febrero;00:30;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;056;1/2/2020;Febrero;00:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;371;14/9/2020;Septiembre;02:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;371;14/9/2020;Septiembre;02:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Acompañante;Motocicleta
+Ministerio de Seguridad;140;7/2/2020;Febrero;22:35;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;518;22/11/2020;Noviembre;20:00;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;35;35 - 44  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;357;28/11/2020;Noviembre;19:45;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;76;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;357;6/12/2020;Diciembre;22:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;357;5/12/2020;Diciembre;03:30;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;357;14/12/2020;Diciembre;02:03;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;581;6/2/2020;Febrero;21:45;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;581;21/7/2020;Julio;03:26;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;581;29/10/2020;Octubre;20:00;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;40;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;833;30/1/2020;Enero;19:30;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;5;5 - 14;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;833;16/3/2020;Marzo;06:45;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;203;2/3/2020;Marzo;13:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;43;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;203;10/7/2020;Julio;18:50;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;14;5 - 14;Conductor;Bicicleta
+Ministerio de Seguridad;056;7/1/2020;Enero;22:15;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Femenino;23;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;056;20/1/2020;Enero;12:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;77;75 y más;Conductor;Bicicleta
+Ministerio de Seguridad;056;1/2/2020;Febrero;00:45;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;140;7/2/2020;Febrero;22:35;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;756;16/8/2020;Agosto;00:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;056;7/3/2020;Marzo;22:55;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Femenino;36;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;056;14/3/2020;Marzo;05:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;25;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;056;10/4/2020;Abril;13:30;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;33;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;819;29/4/2020;Abril;05:45;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;48;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;056;2/5/2020;Mayo;14:00;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;31;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;056;16/5/2020;Mayo;06:45;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / persona;Masculino;30;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;056;27/5/2020;Mayo;18:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;056;4/7/2020;Julio;16:40;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;47;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;602;6/7/2020;Julio;08:20;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Conductor;Bicicleta
+Ministerio de Seguridad;805;5/9/2020;Septiembre;17:30;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;62;55 - 64  ;Conductor;Bicicleta
+Ministerio de Seguridad;756;11/9/2020;Septiembre;19:45;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Femenino;76;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;756;16/8/2020;Agosto;00:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;056;25/10/2020;Octubre;06:50;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;056;23/10/2020;Octubre;22:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;056;29/10/2020;Octubre;20:30;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;52;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;056;9/12/2020;Diciembre;18:20;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;056;31/12/2020;Diciembre;19:00;Jueves;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;861;7/10/2020;Octubre;10:00;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;056;22/8/2020;Agosto;08:00;Sábado;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;638;15/9/2020;Septiembre;18:00;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;161;31/10/2020;Octubre;18:30;Sábado;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Camión
+Ministerio de Seguridad;735;31/12/2020;Diciembre;10:00;Jueves;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;805;3/1/2020;Enero;20:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;805;14/1/2020;Enero;04:45;Martes;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;805;28/1/2020;Enero;18:40;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Camión
+Ministerio de Seguridad;861;20/2/2020;Febrero;12:19;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / persona;Masculino;10;5 - 14;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;861;29/4/2020;Abril;21:18;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Femenino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;749;29/4/2020;Abril;17:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;805;17/6/2020;Junio;13:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;37;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;756;22/6/2020;Junio;14:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;66;65 - 74  ;Conductor;Automóvil
+Ministerio de Seguridad;756;27/6/2020;Junio;21:08;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;59;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;602;11/8/2020;Agosto;19:25;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Pasajero;Colectivo
+Ministerio de Seguridad;861;7/10/2020;Octubre;10:00;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;412;24/1/2020;Enero;16:10;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;82;75 y más;Pasajero;Colectivo
+Ministerio de Seguridad;412;24/1/2020;Enero;16:30;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;63;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;427;2/3/2020;Marzo;13:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;61;55 - 64  ;Acompañante;Motocicleta
+Ministerio de Seguridad;427;18/9/2020;Septiembre;00:00;Viernes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;59;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;805;6/10/2020;Octubre;00:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;43;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;427;2/3/2020;Marzo;13:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;525;28/5/2020;Mayo;19:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Femenino;47;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;371;1/8/2020;Agosto;01:35;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;861;13/10/2020;Octubre;21:23;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;33;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;805;14/10/2020;Octubre;20:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;22;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;805;21/10/2020;Octubre;00:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;805;5/11/2020;Noviembre;07:10;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;66;65 - 74  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;252;15/11/2020;Noviembre;03:45;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;861;1/12/2020;Diciembre;21:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Pasajero;Colectivo
+Ministerio de Seguridad;861;9/12/2020;Diciembre;17:45;Miércoles;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;861;18/12/2020;Diciembre;19:30;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;38;35 - 44  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;252;20/12/2020;Diciembre;00:25;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;749;16/12/2020;Diciembre;09:15;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;62;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;371;5/1/2020;Enero;21:15;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;371;29/1/2020;Enero;19:10;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;371;19/5/2020;Mayo;12:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;43;35 - 44  ;Acompañante;Automóvil
+Ministerio de Seguridad;371;6/7/2020;Julio;11:20;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;73;65 - 74  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;371;1/7/2020;Julio;04:50;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;14;5 - 14;Acompañante;Motocicleta
+Ministerio de Seguridad;371;20/8/2020;Agosto;21:00;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;45;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;371;28/8/2020;Agosto;20:05;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;427;5/9/2020;Septiembre;13:40;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;427;26/9/2020;Septiembre;20:00;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;53;45 - 54  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;371;13/10/2020;Octubre;15:40;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar;Femenino;37;35 - 44  ;Conductor;Bicicleta
+Ministerio de Seguridad;371;20/10/2020;Octubre;06:24;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;62;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;371;27/10/2020;Octubre;06:10;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;32;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;371;25/12/2020;Diciembre;08:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;371;1/8/2020;Agosto;01:35;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;13/9/2020;Septiembre;16:15;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;412;25/1/2020;Enero;17:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;638;12/2/2020;Febrero;02:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;31;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;638;21/2/2020;Febrero;14:10;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;60;55 - 64  ;Conductor;Camioneta
+Ministerio de Seguridad;412;22/2/2020;Febrero;14:40;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;760;6/3/2020;Marzo;21:53;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;65;65 - 74  ;Conductor;Camioneta
+Ministerio de Seguridad;515;10/3/2020;Marzo;00:01;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;412;11/6/2020;Junio;11:20;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;76;75 y más;Acompañante;Sin especificar vehículo
+Ministerio de Seguridad;760;24/6/2020;Junio;00:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Camión
+Ministerio de Seguridad;638;19/7/2020;Julio;17:54;Domingo;Fin de semana;Diurno;Calle;Sin determinar;Femenino;88;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;412;25/7/2020;Julio;00:00;Sábado;Fin de semana;Nocturno;Ruta Nacional;Sin determinar;Masculino;87;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;427;22/9/2020;Septiembre;00:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Femenino;16;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;427;24/9/2020;Septiembre;12:10;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;44;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;028;17/9/2020;Septiembre;11:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;760;11/10/2020;Octubre;22:45;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Femenino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;515;17/10/2020;Octubre;07:20;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / persona;Masculino;58;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;638;18/10/2020;Octubre;05:20;Domingo;Fin de semana;Nocturno;Ruta Provincial;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;638;24/10/2020;Octubre;18:50;Sábado;Fin de semana;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;44;35 - 44  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;515;30/10/2020;Octubre;20:20;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;638;2/11/2020;Noviembre;10:15;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar;Femenino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;760;10/11/2020;Noviembre;08:08;Martes;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;74;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;412;16/11/2020;Noviembre;10:11;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;515;21/11/2020;Noviembre;00:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;412;28/11/2020;Noviembre;04:15;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Camión
+Ministerio de Seguridad;638;30/11/2020;Noviembre;00:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;39;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;638;5/12/2020;Diciembre;03:10;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;638;10/12/2020;Diciembre;12:50;Jueves;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;70;65 - 74  ;Conductor;Automóvil
+Ministerio de Seguridad;638;12/12/2020;Diciembre;06:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;560;7/1/2020;Enero;22:20;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;57;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;560;6/1/2020;Enero;21:40;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / persona;Masculino;77;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;560;11/1/2020;Enero;01:55;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;51;45 - 54  ;Acompañante;Automóvil
+Ministerio de Seguridad;560;20/1/2020;Enero;12:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;364;23/1/2020;Enero;16:00;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;64;55 - 64  ;Conductor;Bicicleta
+Ministerio de Seguridad;560;1/2/2020;Febrero;01:00;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;56;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;560;14/2/2020;Febrero;05:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;41;35 - 44  ;Acompañante;Motocicleta
+Ministerio de Seguridad;560;5/3/2020;Marzo;21:15;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;560;10/3/2020;Marzo;00:15;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;27;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;560;22/5/2020;Mayo;15:50;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;51;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;560;27/5/2020;Mayo;18:40;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Camión
+Ministerio de Seguridad;560;29/6/2020;Junio;18:40;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;560;4/7/2020;Julio;12:00;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;16;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;434;8/9/2020;Septiembre;12:40;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;410;24/2/2020;Febrero;16:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;55;55 - 64  ;Pasajero;Colectivo
+Ministerio de Seguridad;410;15/3/2020;Marzo;06:10;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;568;5/4/2020;Abril;18:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;408;17/5/2020;Mayo;08:25;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;568;21/6/2020;Junio;23:30;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;408;26/6/2020;Junio;22:40;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;441;5/9/2020;Septiembre;12:30;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;10/9/2020;Septiembre;22:40;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;568;28/10/2020;Octubre;21:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;44;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;568;29/10/2020;Octubre;00:00;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;427;4/1/2020;Enero;20:00;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;24;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;427;12/1/2020;Enero;02:00;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;427;18/1/2020;Enero;09:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;62;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;427;24/2/2020;Febrero;16:46;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;441;13/9/2020;Septiembre;16:15;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;6;5 - 14;Acompañante;Automóvil
+Ministerio de Seguridad;427;25/11/2020;Noviembre;16:00;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;1;0 - 4  ;Acompañante;Camión
+Ministerio de Seguridad;427;20/3/2020;Marzo;12:37;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;50;45 - 54  ;Ocupante de vehículo (sin especificar);Camión
+Ministerio de Seguridad;427;17/4/2020;Abril;23:10;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;14;5 - 14;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;427;27/4/2020;Abril;09:40;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;40;35 - 44  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;427;5/5/2020;Mayo;21:30;Martes;Lunes a Viernes;Nocturno;Ruta Nacional;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;427;9/5/2020;Mayo;00:00;Sábado;Fin de semana;Nocturno;Ruta Provincial;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;427;16/5/2020;Mayo;06:55;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;20;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;427;2/6/2020;Junio;06:20;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;36;35 - 44  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;427;6/7/2020;Julio;16:00;Lunes;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;55;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;427;10/7/2020;Julio;12:30;Viernes;Lunes a Viernes;Diurno;Calle;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;427;18/7/2020;Julio;04:40;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Femenino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;427;28/7/2020;Julio;21:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;60;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;427;30/7/2020;Julio;22:10;Jueves;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Femenino;24;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;427;25/11/2020;Noviembre;16:00;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;539;17/8/2020;Agosto;13:00;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;412;1/8/2020;Agosto;20:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;Sin determinar;Sin determinar;Conductor;Bicicleta
+Ministerio de Seguridad;560;9/8/2020;Agosto;03:30;Domingo;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;23;15 - 24  ;Acompañante;Camioneta
+Ministerio de Seguridad;427;10/8/2020;Agosto;21:10;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;427;13/8/2020;Agosto;15:00;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Femenino;31;25 - 34  ;Conductor;Camión
+Ministerio de Seguridad;260;8/3/2020;Marzo;23:20;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;11/1/2020;Enero;01:55;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;32;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;274;12/9/2020;Septiembre;20:45;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;035;13/9/2020;Septiembre;04:45;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;427;29/10/2020;Octubre;11:00;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;66;65 - 74  ;Conductor;Bicicleta
+Ministerio de Seguridad;427;28/10/2020;Octubre;01:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;56;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;427;24/11/2020;Noviembre;19:30;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Pasajero;Colectivo
+Ministerio de Seguridad;427;22/11/2020;Noviembre;17:30;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;58;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;11/1/2020;Enero;01:55;Sábado;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;52;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;427;27/11/2020;Noviembre;19:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;39;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;427;7/12/2020;Diciembre;16:52;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;427;17/12/2020;Diciembre;08:20;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;61;55 - 64  ;Conductor;Bicicleta
+Ministerio de Seguridad;525;7/2/2020;Febrero;22:40;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;539;14/2/2020;Febrero;05:00;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;49;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;539;4/3/2020;Marzo;20:50;Miércoles;Lunes a Viernes;Nocturno;Sin determinar;Sin determinar;Masculino;Sin determinar;Sin determinar;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;539;6/3/2020;Marzo;22:04;Viernes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Femenino;58;55 - 64  ;Acompañante;Motocicleta
+Ministerio de Seguridad;539;6/3/2020;Marzo;22:10;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;43;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;539;6/3/2020;Marzo;22:00;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;50;45 - 54  ;Conductor;Bicicleta
+Ministerio de Seguridad;539;26/3/2020;Marzo;17:55;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;539;5/4/2020;Abril;07:50;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;539;16/4/2020;Abril;18:30;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;77;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;539;8/7/2020;Julio;21:52;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;44;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;539;28/10/2020;Octubre;05:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;23;15 - 24  ;Acompañante;Automóvil
+Ministerio de Seguridad;539;27/12/2020;Diciembre;02:14;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;260;21/1/2020;Enero;14:00;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;23;15 - 24  ;Pasajero;Colectivo
+Ministerio de Seguridad;028;25/1/2020;Enero;17:00;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;26;25 - 34  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;028;19/7/2020;Julio;23:05;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Femenino;Sin determinar;Sin determinar;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;028;28/1/2020;Enero;19:00;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;19;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;427;2/8/2020;Agosto;12:50;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;427;3/8/2020;Agosto;21:15;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;260;8/3/2020;Marzo;23:38;Domingo;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;028;8/3/2020;Marzo;23:55;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;441;4/7/2020;Julio;20:50;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;441;4/7/2020;Julio;20:50;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;028;19/3/2020;Marzo;11:30;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;028;23/8/2020;Agosto;21:00;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;35;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;679;2/9/2020;Septiembre;22:10;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;20;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;525;6/9/2020;Septiembre;11:45;Domingo;Fin de semana;Diurno;Calle;Vuelco / despiste;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;238;9/9/2020;Septiembre;21:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;24;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;91;14/9/2020;Septiembre;02:20;Lunes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;24;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;Sin determinar;17/9/2020;Septiembre;21:20;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Acompañante;Automóvil
+Ministerio de Seguridad;490;6/10/2020;Octubre;18:00;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;2;0 - 4  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;260;15/10/2020;Octubre;12:30;Jueves;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;62;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;028;19/10/2020;Octubre;04:20;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;270;24/10/2020;Octubre;11:40;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / persona;Femenino;1;0 - 4  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;270;24/10/2020;Octubre;03:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;42;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;270;1/11/2020;Noviembre;11:30;Domingo;Fin de semana;Diurno;Calle;Vuelco / despiste;Masculino;18;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;490;1/11/2020;Noviembre;06:20;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Femenino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;490;8/11/2020;Noviembre;17:00;Domingo;Fin de semana;Diurno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;028;18/11/2020;Noviembre;21:30;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;270;2/12/2020;Diciembre;20:30;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Conductor;Bicicleta
+Ministerio de Seguridad;270;17/12/2020;Diciembre;07:50;Jueves;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;434;2/1/2020;Enero;12:42;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;434;9/1/2020;Enero;00:00;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;25;25 - 34  ;Acompañante;Automóvil
+Ministerio de Seguridad;490;26/1/2020;Enero;17:40;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;035;10/2/2020;Febrero;00:00;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;61;55 - 64  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;490;22/2/2020;Febrero;15:30;Sábado;Fin de semana;Nocturno;Ruta Nacional;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;434;28/2/2020;Febrero;19:00;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;16;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;035;3/4/2020;Abril;08:30;Viernes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;035;17/5/2020;Mayo;08:34;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;035;28/5/2020;Mayo;19:00;Jueves;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Femenino;4;0 - 4  ;Acompañante;Automóvil
+Ministerio de Seguridad;434;29/5/2020;Mayo;19:30;Viernes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;434;8/7/2020;Julio;17:10;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;59;55 - 64  ;Conductor;Motocicleta
+Ministerio de Seguridad;Sin determinar;18/9/2020;Septiembre;23:30;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;40;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;434;9/10/2020;Octubre;19:30;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;441;3/1/2020;Enero;19:30;Viernes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;70;65 - 74  ;Acompañante;Camioneta
+Ministerio de Seguridad;441;12/1/2020;Enero;02:30;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;21;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;91;12/1/2020;Enero;02:10;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;441;18/1/2020;Enero;09:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;441;12/2/2020;Febrero;03:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;441;15/2/2020;Febrero;05:30;Sábado;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;46;45 - 54  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;441;17/2/2020;Febrero;08:00;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Femenino;62;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;441;22/2/2020;Febrero;14:20;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Camioneta
+Ministerio de Seguridad;098;18/3/2020;Marzo;09:00;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Femenino;17;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;441;22/4/2020;Abril;00:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Masculino;58;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;441;3/5/2020;Mayo;20:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Femenino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;91;12/1/2020;Enero;02:10;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;274;5/3/2020;Marzo;21:20;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;24;15 - 24  ;Conductor;Camión
+Ministerio de Seguridad;098;8/7/2020;Julio;15:52;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;441;22/7/2020;Julio;02:15;Miércoles;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;441;26/7/2020;Julio;16:20;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / objeto;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;434;6/8/2020;Agosto;22:00;Jueves;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Conductor;Camioneta
+Ministerio de Seguridad;441;10/8/2020;Agosto;10:40;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / objeto;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;7/8/2020;Agosto;10:00;Viernes;Lunes a Viernes;Diurno;Autopista / Autovía;Vuelco / despiste;Femenino;55;55 - 64  ;Acompañante;Automóvil
+Ministerio de Seguridad;098;30/8/2020;Agosto;23:55;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;42;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;Sin determinar;8/9/2020;Septiembre;18:20;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;Sin determinar;28/9/2020;Septiembre;12:36;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;49;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;5/10/2020;Octubre;20:00;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;14;5 - 14;Acompañante;Motocicleta
+Ministerio de Seguridad;441;7/10/2020;Octubre;14:40;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / objeto;Masculino;38;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;441;7/10/2020;Octubre;23:40;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;28;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;441;7/10/2020;Octubre;07:00;Miércoles;Lunes a Viernes;Diurno;Ruta Provincial;Sin determinar;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;441;12/10/2020;Octubre;19:30;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;32;25 - 34  ;Pasajero;Colectivo
+Ministerio de Seguridad;441;18/10/2020;Octubre;11:30;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;41;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;31/10/2020;Octubre;05:40;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / objeto;Masculino;56;55 - 64  ;Conductor;Automóvil
+Ministerio de Seguridad;441;14/11/2020;Noviembre;16:55;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;441;25/11/2020;Noviembre;23:45;Miércoles;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;441;26/11/2020;Noviembre;03:25;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;238;13/1/2020;Enero;03:40;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;238;5/3/2020;Marzo;21:15;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;238;12/10/2020;Octubre;17:00;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;5;5 - 14;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;274;5/3/2020;Marzo;21:20;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;658;14/9/2020;Septiembre;07:30;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;274;19/1/2020;Enero;11:00;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;70;65 - 74  ;Conductor;Camioneta
+Ministerio de Seguridad;658;1/2/2020;Febrero;00:58;Sábado;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;91;19/2/2020;Febrero;11:10;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;1;0 - 4  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;274;25/2/2020;Febrero;17:15;Martes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;20;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;658;5/3/2020;Marzo;21:15;Jueves;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Automóvil
+Ministerio de Seguridad;658;14/9/2020;Septiembre;07:30;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;658;14/9/2020;Septiembre;07:30;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;274;20/4/2020;Abril;23:05;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / persona;Masculino;51;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;658;23/4/2020;Abril;19:15;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;19;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;658;13/5/2020;Mayo;04:45;Miércoles;Lunes a Viernes;Nocturno;Ruta Nacional;Vuelco / despiste;Femenino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;658;14/5/2020;Mayo;05:30;Jueves;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;46;45 - 54  ;Acompañante;Motocicleta
+Ministerio de Seguridad;658;17/5/2020;Mayo;08:25;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;274;30/5/2020;Mayo;19:30;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;80;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;441;2/8/2020;Agosto;01:57;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;36;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;441;8/8/2020;Agosto;08:30;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Masculino;42;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;274;9/8/2020;Agosto;21:10;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;035;9/8/2020;Agosto;19:15;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Femenino;48;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;679;19/8/2020;Agosto;16:50;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;45;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;525;23/8/2020;Agosto;21:40;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;91;28/8/2020;Agosto;03:35;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / objeto;Masculino;35;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;035;7/11/2020;Noviembre;20:45;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;Sin determinar;16/9/2020;Septiembre;23:05;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Femenino;62;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;035;7/11/2020;Noviembre;20:45;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;274;16/11/2020;Noviembre;08:15;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;Sin determinar;25/9/2020;Septiembre;22:05;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;29;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;Sin determinar;26/9/2020;Septiembre;10:00;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Femenino;49;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;658;2/10/2020;Octubre;11:20;Viernes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;52;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;658;8/10/2020;Octubre;22:40;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;50;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;658;16/10/2020;Octubre;10:20;Viernes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;78;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;658;16/10/2020;Octubre;01:30;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;658;22/10/2020;Octubre;16:45;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;47;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;658;27/11/2020;Noviembre;04:55;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;658;11/12/2020;Diciembre;16:00;Viernes;Lunes a Viernes;Diurno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;658;18/12/2020;Diciembre;20:20;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;658;19/12/2020;Diciembre;03:07;Sábado;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;840;19/1/2020;Enero;11:00;Domingo;Fin de semana;Nocturno;Calle;Colisión Vehículo / persona;Masculino;91;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;840;10/2/2020;Febrero;00:00;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Femenino;88;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;840;20/5/2020;Mayo;12:40;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;91;27/8/2020;Agosto;00:00;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;31;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;Sin determinar;17/9/2020;Septiembre;14:23;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;840;27/10/2020;Octubre;14:50;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;70;65 - 74  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;035;23/7/2020;Julio;06:40;Jueves;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;31;25 - 34  ;Pasajero;Colectivo
+Ministerio de Seguridad;035;29/7/2020;Julio;12:30;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;38;35 - 44  ;Conductor;Automóvil
+Ministerio de Seguridad;Sin determinar;11/9/2020;Septiembre;21:50;Viernes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;43;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;035;5/10/2020;Octubre;22:00;Lunes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio de Seguridad;274;16/11/2020;Noviembre;08:15;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;28;25 - 34  ;Acompañante;Motocicleta
+Ministerio de Seguridad;602;30/12/2020;Diciembre;16:20;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;27;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;035;12/11/2020;Noviembre;02:30;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;35;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;035;11/12/2020;Diciembre;22:09;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;45;45 - 54  ;Conductor;Motocicleta
+Ministerio de Seguridad;035;12/12/2020;Diciembre;15:30;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;36;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;408;19/11/2020;Noviembre;02:15;Jueves;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;Sin determinar;20/9/2020;Septiembre;20:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Sin determinar;Masculino;46;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;364;25/10/2020;Octubre;07:05;Domingo;Fin de semana;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;364;2/11/2020;Noviembre;09:19;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Conductor;Motocicleta
+Ministerio de Seguridad;364;1/12/2020;Diciembre;18:22;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;37;35 - 44  ;Conductor;Motocicleta
+Ministerio de Seguridad;Sin determinar;28/9/2020;Septiembre;11:51;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;33;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;410;10/12/2020;Diciembre;18:45;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Femenino;75;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;245;18/10/2020;Octubre;18:45;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Femenino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio de Seguridad;Sin determinar;5/9/2020;Septiembre;01:54;Sábado;Fin de semana;Nocturno;Calle;Sin determinar;Femenino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;274;19/10/2020;Octubre;15:00;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;80;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;274;11/11/2020;Noviembre;05:40;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;62;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;602;30/12/2020;Diciembre;16:20;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Acompañante;Automóvil
+Ministerio de Seguridad;602;30/12/2020;Diciembre;16:20;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;32;25 - 34  ;Acompañante;Automóvil
+Ministerio de Seguridad;274;12/12/2020;Diciembre;15:00;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Seguridad;098;1/11/2020;Noviembre;07:10;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / persona;Masculino;73;65 - 74  ;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;553;4/11/2020;Noviembre;10:50;Miércoles;Lunes a Viernes;Diurno;Calle;Sin determinar;Masculino;69;65 - 74  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;602;30/12/2020;Diciembre;16:20;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;57;55 - 64  ;Acompañante;Camioneta
+Ministerio de Seguridad;602;30/12/2020;Diciembre;16:20;Miércoles;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Femenino;60;55 - 64  ;Acompañante;Camioneta
+Ministerio de Seguridad;119;23/12/2020;Diciembre;15:40;Miércoles;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Acompañante;Camioneta
+Ministerio de Seguridad;119;23/12/2020;Diciembre;15:40;Miércoles;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;41;35 - 44  ;Conductor;Camioneta
+Ministerio Público;392;2/2/2020;Febrero;20:30;Domingo;Fin de semana;Nocturno;Ruta Nacional;Vuelco / despiste;Femenino;46;45 - 54  ;Conductor;Automóvil
+Ministerio de Seguridad;91;23/10/2020;Octubre;05:20;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;Sin determinar;Sin determinar;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;91;27/10/2020;Octubre;12:10;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;91;10/11/2020;Noviembre;20:35;Martes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;91;23/11/2020;Noviembre;23:30;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio de Seguridad;91;27/11/2020;Noviembre;21:05;Viernes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / persona;Masculino;8;5 - 14;Peatón;No corresponde (peatón)
+Ministerio de Seguridad;91;28/11/2020;Noviembre;10:00;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;91;7/12/2020;Diciembre;00:20;Lunes;Lunes a Viernes;Nocturno;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio de Seguridad;134;8/11/2020;Noviembre;06:30;Domingo;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Camioneta
+Ministerio de Seguridad;134;14/11/2020;Noviembre;16:00;Sábado;Fin de semana;Diurno;Calle;Sin determinar;Masculino;23;15 - 24  ;Conductor;Sin especificar vehículo
+Ministerio de Seguridad;134;18/12/2020;Diciembre;15:30;Viernes;Lunes a Viernes;Diurno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;74;65 - 74  ;Conductor;Automóvil
+Ministerio Público;392;2/2/2020;Febrero;20:30;Domingo;Fin de semana;Nocturno;Ruta Nacional;Vuelco / despiste;Femenino;4;0 - 4  ;Acompañante;Automóvil
+Ministerio de Seguridad;119;25/12/2020;Diciembre;04:15;Viernes;Lunes a Viernes;Nocturno;Ruta Provincial;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Seguridad;547;28/12/2020;Diciembre;10:00;Lunes;Lunes a Viernes;Diurno;Ruta Nacional;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Seguridad;134;29/12/2020;Diciembre;14:30;Martes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;1;0 - 4  ;Acompañante;Automóvil
+Ministerio de Seguridad;648;4/11/2020;Noviembre;06:00;Miércoles;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;49;45 - 54  ;Conductor;Motocicleta
+Ministerio Público;274;21/3/2020;Marzo;07:12;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;274;8/3/2020;Marzo;12:00;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / persona;Masculino;31;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio Público;441;18/4/2020;Abril;15:15;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;441;28/8/2020;Agosto;04:37;Viernes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;655;5/9/2020;Septiembre;20:25;Sábado;Fin de semana;Nocturno;Calle;Vuelco / despiste;Masculino;22;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;441;21/9/2020;Septiembre;16:30;Lunes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;17;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;505;24/1/2020;Enero;09:00;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;61;55 - 64  ;Conductor;Bicicleta
+Ministerio Público;441;24/2/2020;Febrero;00:59;Lunes;Lunes a Viernes;Nocturno;Calle;Vuelco / despiste;Masculino;23;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;134;17/9/2020;Septiembre;10:15;Jueves;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;539;17/2/2020;Febrero;07:00;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Vuelco / despiste;Masculino;60;55 - 64  ;Conductor;Automóvil
+Ministerio Público;119;1/12/2020;Diciembre;19:10;Martes;Lunes a Viernes;Nocturno;Ruta Provincial;Vuelco / despiste;Femenino;25;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;270;8/12/2020;Diciembre;14:26;Martes;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;48;45 - 54  ;Conductor;Motocicleta
+Ministerio Público;260;31/8/2020;Agosto;19:50;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;56;55 - 64  ;Conductor;Motocicleta
+Ministerio Público;623;8/8/2020;Agosto;04:48;Sábado;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;658;27/7/2020;Julio;19:15;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;28;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;91;9/3/2020;Marzo;00:30;Lunes;Lunes a Viernes;Nocturno;Autopista / Autovía;Vuelco / despiste;Masculino;Sin determinar;Sin determinar;Acompañante;Motocicleta
+Ministerio Público;805;7/1/2020;Enero;08:50;Martes;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Femenino;56;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio Público;805;2/4/2020;Abril;09:30;Jueves;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Femenino;72;65 - 74  ;Peatón;No corresponde (peatón)
+Ministerio Público;274;29/7/2020;Julio;07:12;Miércoles;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;37;35 - 44  ;Conductor;Motocicleta
+Ministerio Público;007;29/7/2020;Julio;16:00;Miércoles;Lunes a Viernes;Diurno;Calle;Vuelco / despiste;Masculino;33;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio Público;560;17/8/2020;Agosto;06:00;Lunes;Lunes a Viernes;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;43;35 - 44  ;Conductor;Motocicleta
+Ministerio Público;658;21/8/2020;Agosto;13:20;Viernes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;59;55 - 64  ;Conductor;Bicicleta
+Ministerio Público;525;16/2/2020;Febrero;Sin determinar;Domingo;Fin de semana;Sin especificar;Ruta Provincial;Vuelco / despiste;Masculino;49;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio Público;434;9/9/2020;Septiembre;18:30;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;434;5/9/2020;Septiembre;05:00;Sábado;Fin de semana;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;21;15 - 24  ;Conductor;Motocicleta
+Ministerio Público;466;17/6/2020;Junio;18:15;Miércoles;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Conductor;Camioneta
+Ministerio Público;218;1/2/2020;Febrero;18:10;Sábado;Fin de semana;Diurno;Autopista / Autovía;Vuelco / despiste;Femenino;36;35 - 44  ;Conductor;Camioneta
+Ministerio Público;238;6/2/2020;Febrero;19:18;Jueves;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;22;15 - 24  ;Acompañante;Automóvil
+Ministerio Público;238;6/2/2020;Febrero;19:18;Jueves;Lunes a Viernes;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Acompañante;Automóvil
+Ministerio de Salud;364;1/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;412;21/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;568;11/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;238;15/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Otro modo (sin colisión);Femenino;87;75 y más;Conductor;Bicicleta
+Ministerio de Salud;833;16/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;623;16/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;66;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;336;18/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;37;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;218;18/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;056;18/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;73;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;427;23/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;34;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;581;30/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;52;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;364;03/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;39;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;505;26/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / vehículo;Masculino;54;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;568;4/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;45;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;274;4/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;44;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;466;08/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;399;13/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;6;5 - 14;Acompañante;Sin especificar vehículo
+Ministerio de Salud;638;14/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;17;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;252;15/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Ruta Provincial;Sin determinar;Masculino;36;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;112;18/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;81;75 y más;Conductor;Bicicleta
+Ministerio de Salud;693;18/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;41;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;210;22/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / vehículo;Femenino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;218;3/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;427;26/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;41;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;412;05/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;351;6/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;539;8/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / vehículo;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;462;10/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;36;35 - 44  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;595;10/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;875;10/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;34;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;270;12/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;39;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;525;13/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;252;14/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;84;75 y más;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;301;28/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;35;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;218;15/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;70;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;581;15/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;74;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;056;16/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;53;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;357;16/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Ruta Provincial;Sin determinar;Femenino;80;75 y más;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;638;17/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;644;22/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;805;24/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;54;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;826;25/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;056;25/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;420;26/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;32;25 - 34  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;651;31/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;34;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;560;26/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;48;45 - 54  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;77;26/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;43;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;270;28/12/2020;Diciembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / vehículo;Femenino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;638;30/11/2020;Noviembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Autopista / Autovía;Sin determinar;Masculino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;412;Sin determinar;Ignorado;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;119;31/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Femenino;83;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;770;1/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;32;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;4/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;12;5 - 14;Acompañante;Automóvil
+Ministerio de Salud;042;4/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;63;55 - 64  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;042;4/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;67;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;357;01/01/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;36;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;714;4/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;78;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;10/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;40;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;126;13/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;58;55 - 64  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;210;18/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;63;55 - 64  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;20/02/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;427;24/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;826;25/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;10;5 - 14;Acompañante;Automóvil
+Ministerio de Salud;875;27/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;52;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;791;27/02/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;50;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;595;28/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;77;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;357;2/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / persona;Masculino;24;15 - 24  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;210;29/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;196;29/2/2020;Febrero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;85;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;357;03/03/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;32;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;560;8/3/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / persona;Femenino;2;0 - 4  ;Peatón;No corresponde (peatón)
+Ministerio de Salud;595;08/03/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;57;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;840;17/3/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;67;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;119;19/03/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;89;75 y más;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;518;20/3/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Femenino;72;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;399;23/3/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;791;25/03/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio de Salud;392;25/03/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;47;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;357;29/03/2020;Marzo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;52;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;252;15/04/2020;Abril;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;67;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;357;19/4/2020;Abril;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;21;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;721;24/4/2020;Abril;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;21;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;791;5/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;55;55 - 64  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;385;6/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;53;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;497;6/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;69;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;638;08/05/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;427;6/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;48;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;707;08/05/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;049;09/05/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;18;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;434;11/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / persona;Masculino;95;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Salud;658;12/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / persona;Masculino;75;75 y más;Peatón;No corresponde (peatón)
+Ministerio de Salud;441;13/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;16;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;560;27/5/2020;Mayo;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;31;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;4/6/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;427;10/6/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;31;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;623;13/06/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;623;14/6/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;581;7/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;763;22/6/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;434;22/06/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;44;35 - 44  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;466;27/6/2020;Junio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;52;45 - 54  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;581;4/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;840;9/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;028;15/07/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Femenino;28;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;260;19/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;27;25 - 34  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;833;22/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;21;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;168;7/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Femenino;70;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;763;25/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;87;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;469;27/7/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;19;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;056;31/07/2020;Julio;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;77;75 y más;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;791;01/08/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;51;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;826;3/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / objeto;Masculino;20;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;490;8/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;41;35 - 44  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;595;8/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;357;16/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Femenino;32;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;399;18/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;70;65 - 74  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;413;21/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Femenino;24;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;175;9/1/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;30;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;434;21/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;35;35 - 44  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;539;21/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;252;22/08/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;51;45 - 54  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;175;26/08/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;76;75 y más;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;539;27/08/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;357;31/8/2020;Agosto;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;042;10/9/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Otro modo (sin colisión);Masculino;83;75 y más;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;560;13/9/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;31;25 - 34  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;056;16/09/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;76;75 y más;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;833;19/9/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Otro modo (sin colisión);Masculino;63;55 - 64  ;Conductor;Bicicleta
+Ministerio de Salud;175;11/01/2020;Enero;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;55;55 - 64  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;568;22/09/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Sin determinar;Masculino;74;65 - 74  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;427;23/9/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;056;28/09/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;26;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;238;30/9/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Calle;Colisión Vehículo / persona;Masculino;12;5 - 14;Peatón;No corresponde (peatón)
+Ministerio de Salud;357;30/9/2020;Septiembre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;21;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio de Salud;035;2/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;46;45 - 54  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;434;2/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Colisión Vehículo / vehículo;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio de Salud;568;04/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;Sin determinar;Sin determinar;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;497;10/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;25;25 - 34  ;Ocupante de vehículo (sin especificar);Sin especificar vehículo
+Ministerio de Salud;408;11/10/2020;Octubre;Sin determinar;Sin determinar;Sin determinar;Sin especificar;Sin determinar;Sin determinar;Masculino;22;15 - 24  ;Ocupante de vehículo (sin especificar);Automóvil
+Ministerio Público;427;26/1/2020;Enero;09:36;Domingo;Fin de semana;Nocturno;Calle;Sin determinar;Masculino;80;75 y más;Conductor;Bicicleta
+Ministerio Público;515;8/3/2020;Marzo;05:50;Domingo;Fin de semana;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Femenino;50;45 - 54  ;Ocupante de vehículo (sin especificar);Camioneta
+Ministerio Público;147;2/2/2020;Febrero;18:50;Domingo;Fin de semana;Diurno;Calle;Colisión Vehículo / persona;Femenino;59;55 - 64  ;Peatón;No corresponde (peatón)
+Ministerio Público;760;25/7/2020;Julio;13:40;Sábado;Fin de semana;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Ocupante de vehículo (sin especificar);Motocicleta
+Ministerio Público;539;10/6/2020;Junio;13:45;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / vehículo;Masculino;70;65 - 74  ;Conductor;Bicicleta
+Ministerio Público;539;7/9/2020;Septiembre;01:56;Lunes;Lunes a Viernes;Nocturno;Calle;Colisión Vehículo / vehículo;Masculino;26;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;568;26/1/2020;Enero;05:00;Domingo;Fin de semana;Nocturno;Autopista / Autovía;Colisión Vehículo / vehículo;Femenino;50;45 - 54  ;Acompañante;Motocicleta
+Ministerio Público;410;8/2/2020;Febrero;05:00;Sábado;Fin de semana;Nocturno;Autopista / Autovía;Sin determinar;Masculino;31;25 - 34  ;Conductor;Motocicleta
+Ministerio Público;410;19/8/2020;Agosto;10:20;Miércoles;Lunes a Viernes;Diurno;Calle;Colisión Vehículo / persona;Masculino;77;75 y más;Peatón;No corresponde (peatón)
+Ministerio Público;568;18/10/2020;Octubre;12:40;Domingo;Fin de semana;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Femenino;2;0 - 4  ;Acompañante;Automóvil
+Ministerio de Seguridad;778;23/11/2020;Noviembre;01:40;Lunes;Lunes a Viernes;Nocturno;Ruta Provincial;Colisión Vehículo / vehículo;Masculino;23;15 - 24  ;Conductor;Automóvil
+Ministerio de Seguridad;126;22/11/2020;Noviembre;05:30;Domingo;Fin de semana;Nocturno;Ruta Nacional;Colisión Vehículo / vehículo;Masculino;25;25 - 34  ;Conductor;Automóvil
+Ministerio de Seguridad;119;23/12/2020;Diciembre;15:40;Miércoles;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;34;25 - 34  ;Conductor;Camioneta
+Ministerio Público;638;12/2/2020;Febrero;09:00;Miércoles;Lunes a Viernes;Diurno;Autopista / Autovía;Colisión Vehículo / vehículo;Masculino;29;25 - 34  ;Conductor;Automóvil
+Ministerio Público;658;10/8/2020;Agosto;10:40;Lunes;Lunes a Viernes;Diurno;Ruta Provincial;Colisión Vehículo / persona;Femenino;72;65 - 74  ;Peatón;No corresponde (peatón)
